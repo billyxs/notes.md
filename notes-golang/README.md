@@ -1,8 +1,16 @@
 # Let's Golang
 
+## Install
+```bash
+brew install go --cross-compile-common
+```
+
 ## Getting started articles
 
-[Where X=Go](https://learnxinyminutes.com/docs/go/)
+[golang](https://golang.org)
+[golang Tour](https://tour.golang.org/)
+[Learn X in Y minutes - Where X=Go](https://learnxinyminutes.com/docs/go/)
+[Go Bootcamp Book](http://www.golangbootcamp.com/book)
 
 
 ## Packages of interest
@@ -16,3 +24,5 @@ execurable rather than a library
 package main
 
 ```
+
+
