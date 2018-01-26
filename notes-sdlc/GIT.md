@@ -33,3 +33,12 @@ git config --global log.decorate true
 git config --global log.abbrevCommit true
 ```
 
+# Videos
+
+[200~### Git version control
+
++ [Get Together with Git
+(workshop)](https://teamtreehouse.com/library/get-together-with-git)
++ [Everything I Wish I Knew When I Started Using
+Github](https://youtu.be/KDUtjZHIx44)
+
