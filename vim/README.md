@@ -14,3 +14,7 @@
 + [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
 + [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
 + [Vim + Tmux](https://youtu.be/5r6yzFEXajQ)
+
+# Tips and Tricks
+
+[https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about]
