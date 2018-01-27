@@ -6,7 +6,7 @@
 
 ## Machine learning
 
-+ [Teach Connect4
++ [AlphaZero - Teach Connect4
 strategy through self play](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 
 ## Articles of interest
