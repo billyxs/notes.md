@@ -15,3 +15,6 @@ is independent of human consciousness turns out to be in conflict
 with quantum mechanics and with facts established by experiment 
 
 [https://www.scientificamerican.com/media/pdf/197911_0158.pdf]
+
+
+[Bill Gates - Enightenment Now](https://www.gatesnotes.com/Books/Enlightenment-Now)
