@@ -18,3 +18,9 @@
 # Tips and Tricks
 
 [https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about]
+
+## Startup profiling
+
+```bash
+startuptime startup.log +qall && vim startup.log && rm startup.log
+```
