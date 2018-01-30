@@ -11,3 +11,4 @@ strategy through self play](https://medium.com/applied-data-science/how-to-build
 
 ## Articles of interest
 + [The UX of AI](https://design.google/library/ux-ai/)
++ [http://www.fast.ai/]
