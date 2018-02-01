@@ -8,13 +8,17 @@ Starting and finishing need courage. There is no app or tool that will give you 
 
 [Spare Time](200~https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
 
-**Quantum Theory and Reality** - by Bernard d 'Espagnat 
+**Quantum Theory and Reality** - by Bernard d 'Espagnat
 
 The doctrine that the world is made up of objects whose existence
 is independent of human consciousness turns out to be in conflict
-with quantum mechanics and with facts established by experiment 
+with quantum mechanics and with facts established by experiment
 
 [https://www.scientificamerican.com/media/pdf/197911_0158.pdf]
 
 
 [Bill Gates - Enightenment Now](https://www.gatesnotes.com/Books/Enlightenment-Now)
+
+## Quotes
+
+"I was working with Miles Davis and I played something that was technically wrong. I thought I had just destroyed everything. Miles played some notes, and he made my chord right. I judged what I played, Miles didn't. And that's what every jazz musician should do..." —Herbie Hancock
