@@ -22,9 +22,12 @@
 
 # Tips and Tricks
 
-[https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about]
+[What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
+[Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
 
 ## Startup profiling
+
+[Vim screencast #44: Profiling and optimization](https://www.youtube.com/watch?v=wQ9uB8I0cCg)
 
 ```bash
 startuptime startup.log +qall && vim startup.log && rm startup.log
