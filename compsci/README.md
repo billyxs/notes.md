@@ -10,4 +10,4 @@
 
 ## Monads
 
-[https://diego.codes/post/learning-monads/]
++ [Learning Monads by Example](https://diego.codes/post/learning-monads/)

@@ -1,10 +1,8 @@
 # life
 
-[WHY WE LIKE DISTRACTIONS](https://ia.net/topics/distractions-and-how-to-fight-them/)
-```
-Starting and finishing need courage. There is no app or tool that will give you courage. But there are environments that encourage distraction. And there are environments that encourage you to focus.
-- Oliver Reichenstein
-```
++ [Why We Like Distractions](https://ia.net/topics/distractions-and-how-to-fight-them/)
++ [The four motivators](https://apenwarr.ca/log/?m=201612#13)
+
 
 [Spare Time](200~https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
 
@@ -22,3 +20,9 @@ with quantum mechanics and with facts established by experiment
 ## Quotes
 
 "I was working with Miles Davis and I played something that was technically wrong. I thought I had just destroyed everything. Miles played some notes, and he made my chord right. I judged what I played, Miles didn't. And that's what every jazz musician should do..." —Herbie Hancock
+
+
+```
+Starting and finishing need courage. There is no app or tool that will give you courage. But there are environments that encourage distraction. And there are environments that encourage you to focus.
+- Oliver Reichenstein
+```
