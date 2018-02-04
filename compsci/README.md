@@ -2,7 +2,8 @@
 
 ## Online resources
 
-[https://teachyourselfcs.com/]
+[Teach yourself CS](https://teachyourselfcs.com/)
+[Standfor online](https://online.stanford.edu/courses/allcourses)
 
 ## FM-Index
 [https://en.wikipedia.org/wiki/FM-index]
