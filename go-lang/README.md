@@ -28,3 +28,4 @@ package main
 # Articles
 
 + [Writing Space Invaders with Go](https://sausheong.github.io/posts/space-invaders-with-go/)
++ [Advantages You Don't Hear Much About](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
