@@ -2,9 +2,9 @@
 
 + [Why We Like Distractions](https://ia.net/topics/distractions-and-how-to-fight-them/)
 + [The four motivators](https://apenwarr.ca/log/?m=201612#13)
++ [Spare Time](200~https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
++ [Five Tips on Making Every Day Count](https://www.virgin.com/richard-branson/five-tips-making-every-day-count)
 
-
-[Spare Time](200~https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
 
 **Quantum Theory and Reality** - by Bernard d 'Espagnat
 
