@@ -1,8 +1,10 @@
 # Linear Algebra
 
+
+
 ## YouTube - Essence of Linear Algebra
 
-[https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab]
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 
 
@@ -43,9 +45,9 @@ https://www.youtube.com/watch?v=k7RM-ot2NWY
 "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity" - Angus K. Rodgers
 
 * Each coordinate in the vector is a scalar
-* i^ - i hat, unit of vector in the X direction
-* j^ - j hat, unit of vector in the Y direction
-* i hat and j hat are the basis of the coordinate system. They are the basis vectors
+* î - "i hat", unit of vector in the X direction
+* ĵ - "j hat", unit of vector in the Y direction
+* î and ĵ are the basis of the coordinate system. They are the basis vectors
 * Anytime you describe vectors numerically, it depends on an implicit choice of what basis vectors we're using. So anytime you that you are scaling two vectors and adding them, it's called a linear combination of those two vectors.
 * If you lock one vector and let the other change it's value freely, it draws a straight line.
 * Scaling both vectors allows one to reach any point in the coordinate system
