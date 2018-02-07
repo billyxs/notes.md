@@ -71,3 +71,17 @@ The basis of a vector space is a set of linearly independent vectors that span t
 
 https://www.youtube.com/watch?v=kYB8IZa5AuE
 
+**Linear transformation**
+*transformation is the same as a function
+*A transformation is linear if it has two properties.  All lines must remain lines without getting curved, and the origin must remain in place.
+*Linear transformations keep grid lines parallel and evenly space
+
+| 1| + |3| = -1î + 2ĵ = -1| 1| + 2|3| = |5|
+|-2|   |0|                |-2|    |0|   |2|
+
+**"2x2 Matrix"**
+|x| -> x| 1| + y|3| = [  1x + 3y ]
+|y|     |-2|    |0|   [ -2x + 0y ]
+
+### Shear
+
