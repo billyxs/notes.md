@@ -1,14 +1,17 @@
 # Vim
 
+
 ## Articles
 
-[Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
++ [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
 
-[Good reasources for learning Vim](https://www.quora.com/What-are-some-good-resources-for-learning-Vim)
++ [Good reasources for learning Vim](https://www.quora.com/What-are-some-good-resources-for-learning-Vim)
 
-[Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
++ [Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 
-[Use Vim](https://antjanus.com/blog/thoughts-and-opinions/use-vim/)
++ [Use Vim](https://antjanus.com/blog/thoughts-and-opinions/use-vim/)
++ [Using argdo to change multiple files](http://vimcasts.org/episodes/using-argdo-to-change-multiple-files/)
+
 
 
 ## Talks
@@ -24,6 +27,8 @@
 
 [What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
 [Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
+
+
 
 ## Startup profiling
 
