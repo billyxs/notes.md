@@ -38,8 +38,9 @@ arr.sort()
 print arr
 
 print "reverse()"
-arr.reverse()
-print arr
+arr2 = [3,2,1,5,6]
+arr2.reverse()
+print arr2
 
 print "index()"
 print arr.index(2)
