@@ -26,3 +26,4 @@ strategy through self play](https://medium.com/applied-data-science/how-to-build
 
 ##
 
++ [Impala - Scalable Distributed Deep RL / DMLAB-30](https://deepmind.com/blog/impala-scalable-distributed-deeprl-dmlab-30/)
