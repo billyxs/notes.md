@@ -1,5 +1,72 @@
 # Python / Learning
 
+## Comments and Documentation
+
+**Comment and multiline comment**
+```python
+# Comment line
+"""Multiline
+comment does
+this thing"""
+```
+
+**Docstring**
+```python
+# Docstring
+def double(num)
+    """Function to double the value"""
+    return 2*n
+
+# get docstring - documentation string
+print(double.__doc__)
+
+```
+
+
+## Data Types
+
+**String**
+```python
+myStr = "Hello"
+myStr = 'Hello'
+```
+
+**Multiline String**
+```python
+myStr = '''Hello
+you long string```
+```
+
+**Integer**
+```python
+a = 2
+```
+
+
+**Float**
+```python
+a = 2.0
+```
+
+**Complex**
+```python
+a = i+2j
+```
+
+**List**
+a = [4,2,5,6,3,3,9]
+
+**Set**
+a = {4,2,5,6,3,3,9}
+
+**Tuple**
+a = (4,2,5)
+
+**Dictionary**
+a = { 1: 'a', 'b':2 }
+
+
+
 ## Lists
 
 ```python
