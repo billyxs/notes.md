@@ -54,16 +54,39 @@ a = i+2j
 ```
 
 **List**
+```python
 a = [4,2,5,6,3,3,9]
+```
+
 
 **Set**
+
++ mutable
++ unordered
++ unique
+
+```python
 a = {4,2,5,6,3,3,9}
+```
 
 **Tuple**
+
++ immutable - once created, can't be modified
++ ordered
++ unique
++ faster than a list
+
+```python
 a = (4,2,5)
+```
 
 **Dictionary**
+
++ unordered collection of key/value pairs
+
+```python
 a = { 1: 'a', 'b':2 }
+```
 
 
 
