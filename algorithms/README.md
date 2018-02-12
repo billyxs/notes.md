@@ -1,7 +1,6 @@
 # Algorithms
 
 
-
 ## Courses / Lessons
 [Khan academy - algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
@@ -17,3 +16,4 @@
 + [Some Applications of Markov Chain in Python](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)
 + [Gale-Shapley Algorithm Problem](https://www.reddit.com/r/algorithms/comments/7srz6j/galeshapley_algorithm_problem/)
 + [Best way to store a dictionary of phrases - FM-index](https://www.reddit.com/r/algorithms/comments/7pxi0i/best_way_to_store_a_dictionary_of_phrases/?st=JCY5KPKV&sh=2fc0f0c2)
++ [Using k-d Trees to Efficiently Calculate Nearest Neighbors in 3D Vector Space](http://blog.krum.io/k-d-trees/)

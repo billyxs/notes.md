@@ -1,6 +1,6 @@
 # Culture and Values
 
-[Building a Well System](https://trackchanges.postlight.com/building-a-well-system-be5cfa77bad)
++ [Building a Well System](https://trackchanges.postlight.com/building-a-well-system-be5cfa77bad)
 
 **Characteristics of a Well System**
 + Hire people who like to work hard and who have something to prove.
@@ -10,5 +10,6 @@
 + Make their success their own and credit them for it.
 + Don’t promise happiness. Promise fair pay and good work.
 
-[Postlight - Our Mission, Our Values](https://trackchanges.postlight.com/postlight-our-mission-our-values-e5f54a1db72d)
 
++ [Postlight - Our Mission, Our Values](https://trackchanges.postlight.com/postlight-our-mission-our-values-e5f54a1db72d)
++ [Four Pillars of Better Management](https://www.bettermanager.us/four-pillars-better-management-1-self/)
