@@ -11,7 +11,7 @@
 ##
 
 + [Bash](https://github.com/billyxs/notes.md/tree/master/bash)
-+ [Go Lang](https://github.com/billyxs/notes.md/tree/master/golang)
++ [Go Lang](https://github.com/billyxs/notes.md/tree/master/go-lang)
 + [Java/Closure](https://github.com/billyxs/notes.md/tree/master/java-closure)
 + [Javascript](https://github.com/billyxs/notes.md/tree/master/javascript)
 + [Python](https://github.com/billyxs/notes.md/tree/master/python)
