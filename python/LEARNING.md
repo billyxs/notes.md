@@ -1,6 +1,6 @@
 # Python / Learning
 
-## Comments and Documentation
+## Comments, Templates, and Documentation
 
 **Comment and multiline comment**
 
@@ -9,6 +9,14 @@
 """Multiline
 comment does
 this thing"""
+```
+
+**Templates**
+
+```python
+x = 12
+f"x is equal to {x}"
+# outputs "x is equal to 12"
 ```
 
 **Docstring**
@@ -229,4 +237,7 @@ py = False
 if not py:
     print("py is False")
 
+
+if number == 5 and not py:
+    print("Number is 5 and py is False")
 ```
