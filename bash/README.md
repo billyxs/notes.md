@@ -38,9 +38,25 @@ ssh-keygen -R hostname
 Use ripgrep to search and replace
 ```bash
 riplace() {
-  rg -l "$1" | xargs sed -i "" "s|$1|$2|g"
+  if [ ${#1} -eq 0 ]; then
+    read "a?Search: "
+  else
+    a=${#1}
+  fi
+
+  if [ ${#2} -eq 0 ]; then
+    read "b?Replace:"
+  else
+    b=${#2}
+  fi
+
+  rg -l "$a" | xargs sed -i "" "s|$a|$b|g"
 }
 
+riplace
+# or
+riplace searchTerm
+# or
 riplace searchTerm replaceTerm
 ```
 
