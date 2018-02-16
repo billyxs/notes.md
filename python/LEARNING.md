@@ -64,13 +64,16 @@ a = 2.0
 a = i+2j
 ```
 
+**Bytes and Byte Arrays - bytes / bytearray**
+
+
 **List**
 ```python
 a = [4,2,5,6,3,3,9]
 ```
 
 
-**Set**
+**Set and Frozen Set**
 
 + mutable
 + unordered
@@ -107,13 +110,13 @@ a = { 1: 'a', 'b':2 }
 li = [5,3,4,5,3,7]
 ```
 
-## len() - Length
+### len() - Length
 
 ```python
 length = len([5,3,4,5,3,7])
 ```
 
-## append() - Add to list
+### append() - Add to list
 
 ```python
 li = [5,3,4,5,3,7]
@@ -121,7 +124,7 @@ li.append(22)
 # [5,3,4,5,3,7,22]
 ```
 
-## remove() - Remove value from list
+### remove() - Remove value from list
 
 ```python
 li = [5,3,4,5,3,7]
@@ -129,7 +132,7 @@ li.remove(7)
 # [5,3,4,5,3]
 ```
 
-## del - Remove from list by index
+### del - Remove from list by index
 
 ```python
 li = [5,3,4,5,3,7]
@@ -137,7 +140,7 @@ del li[1]
 # [5,4,5,3,7]
 ```
 
-## pop() - Take value from the end of the list
+### pop() - Take value from the end of the list
 
 ```python
 li = [5,3,4,5,3,7]
@@ -146,7 +149,7 @@ item = li.pop()
 # [5,3,4,5,3]
 ```
 
-## Adding lists together
+### Adding lists together
 
 ```python
 li = [1,2]
@@ -155,7 +158,7 @@ newli = li + li2
 # newli is [1,2,3,4]
 ```
 
-## slice() - get list subset
+### slice() - get list subset
 
 ```python
 li = [1,2,3,4]
@@ -163,7 +166,7 @@ sub = li[1:2]
 # sub -> [2,3]
 ```
 
-## sort() - order the list
+### sort() - order the list
 
 ```python
 li = [2,3,1,6,5]
@@ -171,7 +174,7 @@ li.sort()
 # li -> [1,2,3,5,6]
 ```
 
-## reverse() - reverse the list order
+### reverse() - reverse the list order
 
 ```python
 li = [2,3,1,6,5]
@@ -179,13 +182,68 @@ li.reverse()
 # li -> [5,6,1,3,2]
 ```
 
-## index() - get value by index of list
+### index() - get value by index of list
 
 ```python
 li = [2,3,1,6,5]
 item = li.index(1)
 # item -> 3
 ```
+
+## Dictionary
+
+```python
+student = {
+  "first_name": "Jim",
+  "age": 20,
+}
+
+student['first_name'] # output "Jim"
+student['last_name'] # output Key Error as it does not exist
+
+```
+
+**Add a key to or change a key's value the dictionary**
+
+```python
+# Add
+student['id'] = 22322
+
+# Change
+student['age'] = 21
+```
+
+**Delete the key value pair**
+
+Deleting a key that doesn't exist will throw a `Key Error`
+
+```python
+del student['age']
+```
+
+
+### get()
+
+Get a value by key and provide a default to avoid an error
+
+```python
+student.get('first_name') # output "Jim"
+student.get('last_name', 'Unknown') # output "Unknown"
+
+```
+
+### keys()
+
+```python
+student.keys() # output ['first_name', 'age']
+```
+
+### values()
+
+```python
+student.values() # output ['Jim', 20]
+```
+
 
 ## Mathmatical Operations
 
@@ -240,4 +298,66 @@ if not py:
 
 if number == 5 and not py:
     print("Number is 5 and py is False")
+```
+
+## Exception handling - try/except
+
+Handle exceptions with try and except, and chain as many exception cases as needed
+
+** handling a dictionary `Key Error` and `Type Error` for bad addition
+
+```python
+try:
+    # could result in Key Error
+    last_name = student[`last_name`]
+    # results in Type Error
+    age_and_last_name = last_name + 20
+except KeyError:
+    print("Error finding last_name")
+except TypeError as error:
+    print("Error, can't add these two properties")
+    print(error)
+execpt Exception:
+    print("Handle unknown errors")
+
+
+```
+
+
+## Functions
+
+```python
+persons = []
+
+def get_persons():
+    return persons
+
+def add_person(person):
+    persons.append(person)
+
+```
+
+** Default argument values
+```python
+def add_person(name, age=0):
+add_person("Sara")
+# Adds person with name "Sara" and age 0
+```
+
+** **args - Handle variable number of args
+```python
+def var_args(greeting, **args):
+var_args("hello", "yes", True)
+# output
+# hello
+# ("yes", True)
+```
+
+** **kwargs - Handle variable number of named args
+```python
+def add_person(**kwargs):
+    print(kwargs['name'], kwargs[age])
+add_person(name="Chris", age="12", enrolled=True)
+# output
+# Chris 12
 ```
