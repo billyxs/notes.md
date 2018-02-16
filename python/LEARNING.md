@@ -3,6 +3,7 @@
 ## Comments and Documentation
 
 **Comment and multiline comment**
+
 ```python
 # Comment line
 """Multiline
@@ -38,12 +39,14 @@ you long string```
 ```
 
 **Integer**
+
 ```python
 a = 2
 ```
 
 
 **Float**
+
 ```python
 a = 2.0
 ```
@@ -188,6 +191,7 @@ item = li.index(1)
 | %          | Modulus - division remainder            | 11 % 2 = 1    |
 | **         | Exponent                                | 2**3 = 8      |
 
+
 ## Comparison Operations
 
 | Operator   | Meaning                                                    | Example                  |
@@ -200,3 +204,29 @@ item = li.index(1)
 | <=         | Less than or equal to                                      | 2 <= 3, 2 <=2 = True     |
 
 
+## Logical Operations
+
+| Operator   | Meaning                                                    | Example                  |
+|------------|------------------------------------------------------------|--------------------------|
+| and        | True if both operands are true                             | x and y                  |
+| or         | True if one operand is true                                | x or y                   |
+| not        | True if operand is false                                   | not x                    |
+
+
+
+## Control Flow
+
+
+```python
+
+number = 5
+if number == 5:
+    print("Number is 5")
+else:
+    print("Number is NOT 5")
+
+py = False
+if not py:
+    print("py is False")
+
+```
