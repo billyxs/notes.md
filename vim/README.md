@@ -10,7 +10,7 @@
 + [Using argdo to change multiple files](http://vimcasts.org/episodes/using-argdo-to-change-multiple-files/)
 + [Advanced Vim Tutorial](http://tebrik.kampanya.org.tr/Linux/Books/advanced_vim_tutorial.pdf)
 + [Vim for Frontend Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers)
-
++ [5 Plugins I can't live without](https://hackernoon.com/5-vim-plugins-i-cant-live-without-for-javascript-development-f7e98f98e8d5)
 
 
 ## Talks
@@ -45,64 +45,53 @@ startuptime startup.log +qall && vim startup.log && rm startup.log
 
 ## Plugins
 
-*Windows*
+**Windows**
 
-https://github.com/wesQ3/vim-windowswap
-
-
-*Git*
-
-https://github.com/airblade/vim-gitgutter
-
-https://github.com/tpope/vim-fugitive
++ https://github.com/wesQ3/vim-windowswap
 
 
-*Lint*
+**Git**
 
-https://github.com/w0rp/ale
-
-
-*Syntax*
-
-https://github.com/jason0x43/vim-js-syntax
-
-https://github.com/jelera/vim-javascript-syntax
-
-https://github.com/mxw/vim-jsx
-
-https://github.com/othree/yajs.vim
-
-https://github.com/pangloss/vim-javascript
-
-https://github.com/tpope/vim-markdown
++ https://github.com/airblade/vim-gitgutter
++ https://github.com/tpope/vim-fugitive
 
 
-*Search*
+**Lint**
 
-https://github.com/junegunn/fzf.vim
-
-
-*Themes*
-
-https://github.com/rainglow/vim
-
-https://github.com/flazz/vim-colorschemes
-
-https://github.com/mhartington/oceanic-next
-
-https://github.com/lifepillar/vim-solarized8
-
-https://github.com/ajh17/Spacegray.vim
-
-https://github.com/rakr/vim-one
++ https://github.com/w0rp/ale
 
 
-*Tools/Performance*
+**Syntax**
 
-https://github.com/skywind3000/asyncrun.vim
-https://github.com/wakatime/vim-wakatime
++ https://github.com/jason0x43/vim-js-syntax
++ https://github.com/jelera/vim-javascript-syntax
++ https://github.com/mxw/vim-jsx
++ https://github.com/othree/yajs.vim
++ https://github.com/pangloss/vim-javascript
++ https://github.com/tpope/vim-markdown
 
 
-*Profiling*
+**Search**
++ https://github.com/junegunn/fzf.vim
 
-https://github.com/tweekmonster/startuptime.vim
+
+**Themes**
+
++ https://github.com/rainglow/vim
++ https://github.com/flazz/vim-colorschemes
++ https://github.com/mhartington/oceanic-next
++ https://github.com/lifepillar/vim-solarized8
++ https://github.com/ajh17/Spacegray.vim
++ https://github.com/rakr/vim-one
++ https://github.com/nightsense/seabird
+
+
+**Tools/Performance**
++ https://github.com/skywind3000/asyncrun.vim
++ https://github.com/wakatime/vim-wakatime
++ https://github.com/JamshedVesuna/vim-markdown-preview
+
+
+**Profiling**
++ https://github.com/tweekmonster/startuptime.vim
+
