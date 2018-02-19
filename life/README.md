@@ -1,9 +1,11 @@
-# life
+# Life
 
 + [Why We Like Distractions](https://ia.net/topics/distractions-and-how-to-fight-them/)
-+ [The four motivators](https://apenwarr.ca/log/?m=201612#13)
-+ [Spare Time](200~https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
++ [Spare Time](https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
 + [Five Tips on Making Every Day Count](https://www.virgin.com/richard-branson/five-tips-making-every-day-count)
++ [The Benjamin Franklin Method : How to learn to write](https://medium.com/personal-growth/the-benjamin-franklin-method-how-to-actually-learn-to-write-1ac4ebc7c3a7)
++ [The Benjamin Franklin Method of Reading Programming Books](http://www.pathsensitive.com/2018/01/the-benjamin-franklin-method-of-reading.html?m=1)
++ [The Tyranny of Convenience](https://mobile.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html?referer=https://news.ycombinator.com/)
 
 
 **Quantum Theory and Reality** - by Bernard d 'Espagnat
@@ -17,12 +19,4 @@ with quantum mechanics and with facts established by experiment
 
 [Bill Gates - Enightenment Now](https://www.gatesnotes.com/Books/Enlightenment-Now)
 
-## Quotes
 
-"I was working with Miles Davis and I played something that was technically wrong. I thought I had just destroyed everything. Miles played some notes, and he made my chord right. I judged what I played, Miles didn't. And that's what every jazz musician should do..." —Herbie Hancock
-
-
-```
-Starting and finishing need courage. There is no app or tool that will give you courage. But there are environments that encourage distraction. And there are environments that encourage you to focus.
-- Oliver Reichenstein
-```
