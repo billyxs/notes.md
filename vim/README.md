@@ -4,13 +4,12 @@
 ## Articles
 
 + [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
-
 + [Good reasources for learning Vim](https://www.quora.com/What-are-some-good-resources-for-learning-Vim)
-
 + [Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-
 + [Use Vim](https://antjanus.com/blog/thoughts-and-opinions/use-vim/)
 + [Using argdo to change multiple files](http://vimcasts.org/episodes/using-argdo-to-change-multiple-files/)
++ [Advanced Vim Tutorial](http://tebrik.kampanya.org.tr/Linux/Books/advanced_vim_tutorial.pdf)
++ [Vim for Frontend Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers)
 
 
 
@@ -25,9 +24,16 @@
 
 # Tips and Tricks
 
-[What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
-[Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
++ [What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
++ [Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
++ [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 
+
+## Good Key Bindings
+
++ [Key mapping best practices](https://vi.stackexchange.com/questions/6916/key-mapping-best-practices)
++ [8 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
++ [9 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
 
 
 ## Startup profiling
