@@ -17,6 +17,7 @@ brew install go --cross-compile-common
 
 + [Golang Graphql](https://github.com/vektah/gqlgen)
 + [Gorilla Toolkit](http://www.gorillatoolkit.org/)
++ [Building GraphQL Server](https://github.com/vektah/gqlgen)
 
 
 ## Remember
