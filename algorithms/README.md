@@ -17,3 +17,4 @@
 + [Gale-Shapley Algorithm Problem](https://www.reddit.com/r/algorithms/comments/7srz6j/galeshapley_algorithm_problem/)
 + [Best way to store a dictionary of phrases - FM-index](https://www.reddit.com/r/algorithms/comments/7pxi0i/best_way_to_store_a_dictionary_of_phrases/?st=JCY5KPKV&sh=2fc0f0c2)
 + [Using k-d Trees to Efficiently Calculate Nearest Neighbors in 3D Vector Space](http://blog.krum.io/k-d-trees/)
++ [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
