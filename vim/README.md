@@ -29,11 +29,10 @@
 + [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 
 
-## Good Key Bindings
+## Key Bindings
 
 + [Key mapping best practices](https://vi.stackexchange.com/questions/6916/key-mapping-best-practices)
 + [8 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
-+ [9 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
 
 
 ## Startup profiling
@@ -43,3 +42,67 @@
 ```bash
 startuptime startup.log +qall && vim startup.log && rm startup.log
 ```
+
+## Plugins
+
+*Windows*
+
+https://github.com/wesQ3/vim-windowswap
+
+
+*Git*
+
+https://github.com/airblade/vim-gitgutter
+
+https://github.com/tpope/vim-fugitive
+
+
+*Lint*
+
+https://github.com/w0rp/ale
+
+
+*Syntax*
+
+https://github.com/jason0x43/vim-js-syntax
+
+https://github.com/jelera/vim-javascript-syntax
+
+https://github.com/mxw/vim-jsx
+
+https://github.com/othree/yajs.vim
+
+https://github.com/pangloss/vim-javascript
+
+https://github.com/tpope/vim-markdown
+
+
+*Search*
+
+https://github.com/junegunn/fzf.vim
+
+
+*Themes*
+
+https://github.com/rainglow/vim
+
+https://github.com/flazz/vim-colorschemes
+
+https://github.com/mhartington/oceanic-next
+
+https://github.com/lifepillar/vim-solarized8
+
+https://github.com/ajh17/Spacegray.vim
+
+https://github.com/rakr/vim-one
+
+
+*Tools/Performance*
+
+https://github.com/skywind3000/asyncrun.vim
+https://github.com/wakatime/vim-wakatime
+
+
+*Profiling*
+
+https://github.com/tweekmonster/startuptime.vim
