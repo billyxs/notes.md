@@ -12,3 +12,9 @@ Thoughts and details of using AWS Lambda
 
 [Split stacks](https://github.com/dougmoscrop/serverless-plugin-split-stacks)
 A plugin to generate nested stacks to get around the 200 resource CloudFormation limit
+
+## Other
+
++ [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
+
+
