@@ -1,11 +1,11 @@
 # Linear Algebra
 
++ [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 
 
 ## YouTube - Essence of Linear Algebra
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-
 
 
 
