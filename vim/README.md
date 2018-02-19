@@ -1,5 +1,7 @@
 # Vim
 
+[My vimrc](https://github.com/billyxs/.vim/blob/master/vimrc)
+
 
 ## Articles
 
@@ -11,7 +13,7 @@
 + [Advanced Vim Tutorial](http://tebrik.kampanya.org.tr/Linux/Books/advanced_vim_tutorial.pdf)
 + [Vim for Frontend Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers)
 + [5 Plugins I can't live without](https://hackernoon.com/5-vim-plugins-i-cant-live-without-for-javascript-development-f7e98f98e8d5)
-
++ [Vi Master By Learning These 30 Key Bindings](https://www.howtogeek.com/115051/become-a-vi-master-by-learning-these-30-key-bindings/)
 
 ## Talks
 
@@ -29,7 +31,7 @@
 + [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 
 
-## Key Bindings
+## Key Mappings
 
 + [Key mapping best practices](https://vi.stackexchange.com/questions/6916/key-mapping-best-practices)
 + [8 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
