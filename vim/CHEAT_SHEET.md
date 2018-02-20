@@ -30,11 +30,41 @@ L  "
 M  "
 ```
 
-## Format
+## Jumps
+
+```bash
+^o
+^i
+`<   " Go to start of previous visual selection
+`>   " Go to end of previous visual selection
+```
+## Editing
+
+
+
+
+## Format Text
 
 ```bash
 ={motion}  " format file with proper indenting
 G=gg       " format entire file from bottom to top
+```
+
+**Change case**
+```bash
+~     " toggle character from upper to lowercase, or lower to uppercase
+guu   " change line to lowercase
+gUU   " change line to uppercase
+guiw  " change word to lowercase
+gUiw  " change word to uppercase
+guiw~ " capitalize word
+```
+
+## Visual Selection
+
+```bash
+gv   " select previous visual selection
+o    " toggle cursor to start and end of visual selection
 ```
 
 
@@ -66,4 +96,7 @@ j     " join
 :v/^import/normal dd  " Delete all lines that don't start with import
 :g/^import/j          " Join all lines that start with import
 :g/^import/t 0        " Copy all lines that start with import to line 0, or top of file
+:g/^import/y A        " Copy all lines that start with import into register A. This appends to the register.
 ```
+
+
