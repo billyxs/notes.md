@@ -1,6 +1,7 @@
 # Vim
 
 [My vimrc](https://github.com/billyxs/.vim/blob/master/vimrc)
+[My vim cheat sheet as found through my journey](https://github.com/billyxs/notes.md/blob/master/vim/CHEAT_SHEET.md)
 
 
 ## Articles
