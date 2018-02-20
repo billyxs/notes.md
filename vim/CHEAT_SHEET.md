@@ -42,7 +42,6 @@ M  "
 
 
 
-
 ## Format Text
 
 ```bash
@@ -99,4 +98,44 @@ j     " join
 :g/^import/y A        " Copy all lines that start with import into register A. This appends to the register.
 ```
 
+## Jumps
 
+```bash
+:jumps   " list of jumps
+g;       " move cursor to previous edit in history
+g,       " move cursor to next edit in history
+gi       " move cursor to last and change to insert mode
+
+```
+
+## Buffers
+
+```bash
+:ls  " list buffers
+:b#  " go to last buffer
+:b1  " go to buffer 1 in buffer list
+:bp  " go to previous buffer
+:bn  " go to next buffer
+:bd  " delete buffer
+```
+
+## Windows
+
+```bash
+<Ctrl-w>h   " move focus to left window
+<Ctrl-w>j   " move focus to bottom window
+<Ctrl-w>k   " move focus to top window
+<Ctrl-w>l   " move focus to right window
+<Ctrl-w>=   " resize all windows to equal size
+
+:tabe filename  " Edit file in a new tab
+
+```
+
+## Netrw - Directory Management
+
+```bash
+:E       " open directory explorer
+:split   " open directory with horizontal split
+:vsplit  " open directory with vertical split
+```
