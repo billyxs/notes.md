@@ -1,9 +1,7 @@
 # Python
-##
-
 
 ## Learning
-+ https://www.programiz.com/python-programming/
++ https://www.programiz.com/python-programming#tutorial
 
 
 ## Packages
