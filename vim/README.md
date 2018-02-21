@@ -45,7 +45,11 @@
 [Vim screencast #44: Profiling and optimization](https://www.youtube.com/watch?v=wQ9uB8I0cCg)
 
 ```bash
-startuptime startup.log +qall && vim startup.log && rm startup.log
+" verbose output
+vim --startuptime startup.log +qall && vim startup.log && rm startup.log
+
+" get the final result
+vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 ```
 
 ## Plugins
