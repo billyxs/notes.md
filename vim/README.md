@@ -16,6 +16,7 @@
 + [Vim for Frontend Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers)
 + [5 Plugins I can't live without](https://hackernoon.com/5-vim-plugins-i-cant-live-without-for-javascript-development-f7e98f98e8d5)
 + [Vi Master By Learning These 30 Key Bindings](https://www.howtogeek.com/115051/become-a-vi-master-by-learning-these-30-key-bindings/)
++ [Simplifying regular expressions using magic and no-magic](http://vim.wikia.com/wiki/Simplifying_regular_expressions_using_magic_and_no-magic)
 
 ## Talks
 
@@ -28,15 +29,15 @@
 
 # Tips and Tricks
 
-+ [What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
 + [Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
-+ [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 
 
 ## Key Mappings
 
 + [Key mapping best practices](https://vi.stackexchange.com/questions/6916/key-mapping-best-practices)
 + [8 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
++ [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
++ [What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
 
 
 ## Startup profiling

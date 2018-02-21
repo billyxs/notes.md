@@ -28,6 +28,8 @@ T  "
 H  "
 L  "
 M  "
+G  "
+gg "
 ```
 
 ## Jumps
@@ -138,4 +140,16 @@ gi       " move cursor to last and change to insert mode
 :E       " open directory explorer
 :split   " open directory with horizontal split
 :vsplit  " open directory with vertical split
+```
+
+## Other
+
+```
+:%TOhtml  "
+
+:r! ls    " pull ls contents into the vim session
+:r! date  " pull date contents into the vim session
+
+<Ctrl-z>  " suspend vim session
+fg        " go back to to suspended vim session
 ```
