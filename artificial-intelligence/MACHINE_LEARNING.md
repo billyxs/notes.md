@@ -21,3 +21,7 @@
 + [Some notes on teh coursera machine learning course](https://ftrsn.net/2018/02/11/some-notes-on-the-andrew-ng-coursera-machine-learning-course/)
 + [Background Removal with Deep Learning](https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157)
 
+## Todo
+
++ [Visibility and Monitorying for Machine Learning Models](http://blog.launchdarkly.com/visibility-and-monitoring-for-machine-learning-models/)
+
