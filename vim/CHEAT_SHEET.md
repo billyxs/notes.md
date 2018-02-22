@@ -14,34 +14,49 @@ j  " move down
 k  " move up
 l  " move right
 
-w  " move to next word
-W  " move to next word, ignore special characters
-e  "
-E  "
-f  "
-F  "
-t  "
-T  "
+w  " move to start of next word
+W  " move to start of next word, ignore special characters
+e  " move to end of next word
+E  " move to end of next word, ignore special characters
+
+fx " move forward the to next occurence of 'x'
+Fx " move backward the to next occurence of 'x'
+tx " move forward just before the next occurence of 'x'
+Tx " move backward just before the to next occurence of 'x'
+
 ^e "
-^d "
-^u "
-H  "
-L  "
-M  "
-G  "
-gg "
+^d " move down half the page and scroll
+^u " move up half the page and scroll
+
+H  " move to the top of the window, no scroll
+L  " move to the bottom of the window, no scroll
+M  " move to the middle of the window, no scroll
+zz " scroll the file to so the current cursor postion is the middle of the window
+
+G  " move to the bottom of the file
+gg " move to the top of the file
 ```
 
 ## Jumps
 
 ```bash
-^o
-^i
+^o   " Go to the previous cursor position in history
+^i   " Go to the next cursor position in history
 `<   " Go to start of previous visual selection
 `>   " Go to end of previous visual selection
 ```
+
+
 ## Editing
 
+```bash
+r " replace current character
+R " replace mode
+s " substitute char - remove character and change to insert mode
+S " substitute line - remove line and change to insert mode
+o " add new line below and change to insert mode
+O " add new line above and change to insert mode
+```
 
 
 ## Format Text
@@ -66,6 +81,8 @@ guiw~ " capitalize word
 ```bash
 gv   " select previous visual selection
 o    " toggle cursor to start and end of visual selection
+`<   " move cursor to previous selection's start position
+`>   " move cursor to previous selection's end position
 ```
 
 
@@ -89,6 +106,15 @@ j     " join
 :v    " not matching
 :!g   " not matching, like :v
 :%s   " search and replace
+
+" Casing
+\c    " ignore case with search
+\C    " match case with search
+
+" Magic mode
+\v    " enable all special characters for regex
+\V    " disable special characters and search them literal
+
 ```
 
 ```bash
@@ -130,6 +156,11 @@ gi       " move cursor to last and change to insert mode
 <Ctrl-w>l   " move focus to right window
 <Ctrl-w>=   " resize all windows to equal size
 
+<Ctrl-w>H   " move current window right
+<Ctrl-w>J   " move current window below
+<Ctrl-w>K   " move current window up
+<Ctrl-w>L   " move current window left
+
 :tabe filename  " Edit file in a new tab
 
 ```
@@ -145,11 +176,12 @@ gi       " move cursor to last and change to insert mode
 ## Other
 
 ```
-:%TOhtml  "
+:%TOhtml  " create the current file contents as HTML document
 
-:r! ls    " pull ls contents into the vim session
-:r! date  " pull date contents into the vim session
+:r! ls    " pull ls output into the vim session
+:r! date  " pull date into the vim session
 
+" suspend vim and use terminal
 <Ctrl-z>  " suspend vim session
 fg        " go back to to suspended vim session
 ```
