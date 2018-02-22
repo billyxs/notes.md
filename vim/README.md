@@ -54,9 +54,9 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 ## Plugins
 
-**Windows**
+**Directory**
 
-+ https://github.com/wesQ3/vim-windowswap
++ https://github.com/justinmk/vim-dirvish
 
 
 **Git**
@@ -104,3 +104,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 **Profiling**
 + https://github.com/tweekmonster/startuptime.vim
 
+
+**Windows**
+
++ https://github.com/wesQ3/vim-windowswap

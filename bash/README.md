@@ -1,5 +1,6 @@
 # Bash
 
+
 ## awk
 
 + [Write AWK Commands and Scripts](https://www.lifewire.com/write-awk-commands-and-scripts-2200573)
@@ -14,6 +15,16 @@
 
 + [A Quick Guide to Using Sed Commands](https://www.lifewire.com/example-uses-of-sed-2201058)
 
+
+## nl
+
+https://www.computerhope.com/unix/nl.htm
+
+Output contents of file with line numbers
+
+```bash
+nl filename
+```
 
 
 ## ssh
