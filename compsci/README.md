@@ -14,6 +14,12 @@
 
 + [Learning Monads by Example](https://diego.codes/post/learning-monads/)
 
+
 ## Articles
 
 + [S-Expressions](https://people.csail.mit.edu/rivest/Sexp.txt)
+
+
+## Todo
+
++ [Lisp](www.defmacro.org/ramblings/lisp.html)
