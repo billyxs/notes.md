@@ -1,5 +1,9 @@
 # Work and Leadership
 
+**Managing People**
+
+https://hbr.org/topic/managing-people
+
 
 ## Why I Rejected My Manager
 
@@ -31,3 +35,7 @@ https://hbr.org/2018/02/how-to-cultivate-gratitude-compassion-and-pride-on-your-
 > Unlike using willpower to keep your nose to the grindstone, using these emotions also helps solve an increasingly common problem of professional life: loneliness.
 
 > Compassion, too, builds dedication. ...those who worked in units characterized by higher feelings of social attachment, trust, acceptance, and support—a composite that could easily be called empathy and compassion—not only showed superior performance and engagement, but also increased work satisfaction, less exhaustion, and lower absenteeism.
+
+## Todo
+
++ [12 Traits of Truly Authentic People](https://blogs.psychcentral.com/success-workplace/2018/02/dont-be-fooled-by-smoke-and-mirrors-12-traits-of-truly-authentic-people/)
