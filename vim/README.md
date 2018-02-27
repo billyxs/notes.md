@@ -99,6 +99,8 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 + https://github.com/skywind3000/asyncrun.vim
 + https://github.com/wakatime/vim-wakatime
 + https://github.com/JamshedVesuna/vim-markdown-preview
++ https://github.com/tpope/vim-dispatch
++ https://github.com/machakann/vim-highlightedyank
 
 
 **Profiling**
