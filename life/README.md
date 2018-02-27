@@ -1,5 +1,6 @@
 # Life
 
++ [Reach for Markdown](https://blog.jez.io/reach-for-markdown/)
 + [Why We Like Distractions](https://ia.net/topics/distractions-and-how-to-fight-them/)
 + [Spare Time](https://www.brainpickings.org/2018/01/24/ursula-k-le-guin-spare-time/)
 + [Five Tips on Making Every Day Count](https://www.virgin.com/richard-branson/five-tips-making-every-day-count)

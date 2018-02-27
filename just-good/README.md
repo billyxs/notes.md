@@ -1,5 +1,6 @@
 # Just Good
 
+
 ## Design
 
 + [Beyond Biohazard: Why Danger Symbols Can't Last Forever](https://99percentinvisible.org/article/beyond-biohazard-danger-symbols-cant-last-forever/)
