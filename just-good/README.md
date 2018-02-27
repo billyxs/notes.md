@@ -1,14 +1,5 @@
 # Just Good
 
-
-## Tech
-
-+ [Xi Editor](https://www.recurse.com/events/localhost-raph-levien)
-+ [Photo Metadata and Search on MacOS](https://28mm.github.io/notes/osx-photo-search)
-+ [Content aware image resize library](https://github.com/esimov/caire)
-+ [Allstate using social media to check claims](http://www.tearsheet.co/data/allstate-is-watching-you-how-the-insurer-uses-social-media-to-check-claims)
-
-
 ## Design
 
 + [Beyond Biohazard: Why Danger Symbols Can't Last Forever](https://99percentinvisible.org/article/beyond-biohazard-danger-symbols-cant-last-forever/)
