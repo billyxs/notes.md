@@ -78,6 +78,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 + https://github.com/othree/yajs.vim
 + https://github.com/pangloss/vim-javascript
 + https://github.com/tpope/vim-markdown
++ https://github.com/styled-components/vim-styled-components
 
 
 **Search**
