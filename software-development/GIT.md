@@ -32,6 +32,9 @@ To make git log nicer by default, I typically set these global preferences:
 git config --global log.decorate true
 git config --global log.abbrevCommit true
 ```
+## Migrate from one repo to another
+
+https://medium.com/collaborne-engineering/how-to-migrate-a-private-repository-from-bitbucket-to-github-6cddedd5d73
 
 # Videos
 
