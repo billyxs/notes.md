@@ -39,3 +39,4 @@ https://hbr.org/2018/02/how-to-cultivate-gratitude-compassion-and-pride-on-your-
 ## Todo
 
 + [12 Traits of Truly Authentic People](https://blogs.psychcentral.com/success-workplace/2018/02/dont-be-fooled-by-smoke-and-mirrors-12-traits-of-truly-authentic-people/)
++ [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
