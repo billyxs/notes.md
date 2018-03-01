@@ -66,7 +66,96 @@ https://hbr.org/2018/02/how-to-cultivate-gratitude-compassion-and-pride-on-your-
 
 > Compassion, too, builds dedication. ...those who worked in units characterized by higher feelings of social attachment, trust, acceptance, and support—a composite that could easily be called empathy and compassion—not only showed superior performance and engagement, but also increased work satisfaction, less exhaustion, and lower absenteeism.
 
-## Todo
+## Agile Is Dead
 
-+ [12 Traits of Truly Authentic People](https://blogs.psychcentral.com/success-workplace/2018/02/dont-be-fooled-by-smoke-and-mirrors-12-traits-of-truly-authentic-people/)
-+ [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+GOTO 2015 Agile is Dead - by Pragmatic Dave Thomas
+
+[Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+
+
+###1999 Development###
+
+- UML - Unified Modeling Language
+  - ~"Total focus on classes rather than objects probably destroyed object oriented language"
+- RUP - Rational Unified Process
+- Experiments with extreme programming
+- Ideas around Adaptive Software Development
+
+
+###The Manifesto For Agile Software Development###
+_unfortunately people call it "The Agile Manifesto"_
+
+- Agile is an adjective, not a noun
+  - an agile gymnast
+  - an agile programmer
+  - an agile methodology
+
+- Agile is not a noun. You cannot do Agile. It's not a proper noun like God.
+
+### Nouns Sell
+- Fear is used to sell, like medicene
+  - New words
+  - New roles
+  - New ways to measure
+  - Are we doing it right?
+- Cool Sells
+  - Bright and shiny
+  - Feeling of power
+  - What, you aren't doing Agile?
+
+
+People like to feel like they know something others don't know. It can be a sense of power. That they hold some sort of special knowlege that you don't.
+
+#### Ruby community and testing
+- "You don't have 100% test coverage? You call yourself a programmer?"
+
+> I'm probably shunned by the Ruby community because I don't do tests. The same thing happens in the Agile community. We can put people down that don't do things our way. Our way is best.
+
+**Agile is an industry**
+- It's a machine that taxes on the basis of fear. To pay money to aswage that fear.
+- "The world is adopting SCRUM, are you?" - Ad
+- Agile was built for small teams, but the money is in corporations
+  - Nesting agile...
+
+### It's time to reclaim agility
+
+#### Agility - What to do
+1. Find out where you are.
+1. Take a small step towards your goal. Understand where you want to be.
+1. Adjust your understanding base on what you learned.
+1. Repeat
+
+#### Agility - How to do it
+1. When faced with two of more alternatives that deliver roughly the same value, take the path that makes future change easier.
+
+> A good design is easier to change than a bad design. Make decisions that are easier to change in the future.
+
+#### PID Controller - Proportional Integral Derivative
+
+- Example: Robot that balances itself with pendulums
+- Used in heating, cars, large boats
+
+#### No Rules are Universal - All Rules Need Context
+Any book that says "This is how you write software" is wrong. It does not know how your team works.
+
+> How do you know what to do?
+
+In any situation where you don't know what is going to happen next.
+- Find out where you are
+- Take a small step towards your goal
+- Adjust your understandings based on what you learned
+- Repeat
+
+- When faced with two of more alternatives that deliver roughly the same value, take the path that makes future change easier.
+
+> Not just an agile project, and agile life
+
+**Courage - Stand up to fear-mongers**
+
+You already have the values - use them to create practices. Get feedback, refine, repeat.
+
+> Agile is not what you. Agility is how you do it.
+
+
+## Todo
+_Nice_
