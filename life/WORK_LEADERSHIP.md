@@ -1,8 +1,38 @@
 # Work and Leadership
 
-**Managing People**
+**Managing People Articles**
 
 https://hbr.org/topic/managing-people
+
+
+## 12 Traits of Truly Authentic People
+
+https://blogs.psychcentral.com/success-workplace/2018/02/dont-be-fooled-by-smoke-and-mirrors-12-traits-of-truly-authentic-people/
+
+> We navigate life behind the confines of computers and smart phones. Social media has alterted the way we interact. Through technology and culture, we have developed the ability to sit in a crowded room and mentally "check out", unaware of what is going on around us.
+
+> Advances in technology have allowed us to connect and build relationships with people all over the world and enable companies to run more efficiently. On the other hand, it may be interfering with our ability to learn effective social skills that are necessary for navigating health relationships.
+
+> Harvard study claim successful college graduates must possess a ratio of 80% emotional-social intelligence to 20% book smarts. Today's college grads are less empathetic and more narcisistic than grads from the 1980-90s.
+
+> In a world of increased narcissism and a decreased capacity to effectively read people, how can we discern genuine, authentic people from narcissistic manipulators?  How can we challenge our perceptions and not automatically believe the artificially perfected information that is presented in our newsfeeds?
+
+
+**12 Key Traits of Highly Authentic People**
+
+
+1. Their words and actions are congruent
+1. They are transparent, honest, and assertive
+1. They demonstrate reciprocity in relationships
+1. They are open-minded
+1. They make you feel at ease
+1. They are not superficial
+1. They are not swayed by material objects
+1. They take personal responsibility
+1. They cultivate meaningful relationships
+1. They are not driven by ego
+1. They have strong character
+1. They live in the moment and create their own paths
 
 
 ## Why I Rejected My Manager
