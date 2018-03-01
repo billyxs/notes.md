@@ -24,4 +24,5 @@
 ## Todo
 
 + [Visibility and Monitorying for Machine Learning Models](http://blog.launchdarkly.com/visibility-and-monitoring-for-machine-learning-models/)
-
++ [Propel - Machine learning for javascript](propelml.org)
++ [A Promenade of PyTorch](www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/)
