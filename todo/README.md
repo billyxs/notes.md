@@ -1,8 +1,8 @@
 # Todo
 
 + [https://www.zachaysan.com/writing/2018-01-17-self-crashing-cars]
++ Mastering Chaos - https://www.youtube.com/watch?v=CZ3wIuvmHeM
 
-#
 
 - [x] [Bash](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [ ] [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

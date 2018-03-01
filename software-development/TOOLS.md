@@ -1,6 +1,7 @@
 # Tools
 
 + [GRV is a terminal interface for viewing git repositories](https://github.com/rgburke/grv)
++ [Github Markdown Live Reload](https://github.com/joeyespo/grip)
 
 ## Deployment
 + [Kubernetes](https://kubernetes.io/)
