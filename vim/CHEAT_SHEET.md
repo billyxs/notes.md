@@ -57,7 +57,22 @@ S " substitute line - remove line and change to insert mode
 o " add new line below and change to insert mode
 O " add new line above and change to insert mode
 ```
+## Copy and Paste
 
+```bash
+y    " copy
+yiw  " copy inside word
+yiW  " copy inside word including special characters
+yi(  " copy paragraph
+yit  " copy inside of tags - ie <span>word</span>
+yy   " copy line
+Y    " copy line
+
+p  " paste text after cusor
+P  " paste text before cusor
+gp " paste after cursor and put cursor at end of new text
+gP " paste after cursor and put cursor at end of new text
+```
 
 ## Format Text
 
