@@ -94,6 +94,8 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 + https://github.com/ajh17/Spacegray.vim
 + https://github.com/rakr/vim-one
 + https://github.com/nightsense/seabird
++ https://github.com/martinlindhe/base16-iterm2
++ https://github.com/chriskempson/base16-vim
 
 
 **Tools/Performance**
