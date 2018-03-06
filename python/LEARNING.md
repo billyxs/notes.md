@@ -1,5 +1,69 @@
 # Python / Learning
 
+##
+
+Programming as Guido ~~intended~~ **indented** it.
+
+```
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
+
+## REPL
+
+**help()**
+
+Access documentation via the REPL using `help()`
+
+```python
+>>> import math
+>>> help(math)
+>>> help(math.sqrt)
+```
+
+## import
+
+import the whole library
+
+```python
+import math
+math.factorial(5) # 120
+```
+
+import the function from the library
+
+```python
+from math import factorial
+factorial(5) # 120
+```
+
+import the function from the library and rename
+
+```python
+from math import factorial as fac
+fac(5) # 120
+```
+
+
 ## Comments, Templates, and Documentation
 
 **Comment and multiline comment**
@@ -49,20 +113,72 @@ you long string```
 **Integer**
 
 ```python
+# Assign an integer
 a = 2
+
+# binary
+0b10 # 2
+
+# Octal
+0o10 # 8
+
+# Hexidecimal
+0x10 # 16
+
+# Cast as integer
+int("496") # 496
+int("1000", 3) # 81
 ```
 
 
 **Float**
 
+64 bit precisiont - 53 bits of precision and 15-16 bits of decimal precision
+
 ```python
 a = 2.0
+
+3e8 # 300000000.0
+
+1.616e-35 # Plank's constant
+
+# Cast
+float("1000") # 1000.0
+float(nan) # nan
+float(inf) # infinity
+float(-inf) # negative infinity
 ```
 
 **Complex**
 ```python
 a = i+2j
 ```
+
+**None**
+
+Python's null value.
+
+**Bool**
+
+```python
+True
+False
+
+bool(0) # False
+bool(0.0) # False
+
+bool(0.027) # True
+bool(2) # True
+bool(-1) # True
+
+bool([]) # False
+bool([1]) # True
+
+bool("") # False
+bool("Spam") # True
+bool("False") # True
+```
+
 
 **Bytes and Byte Arrays - bytes / bytearray**
 
@@ -429,3 +545,5 @@ class HighSchoolStudent(Student):
         return orig_value + "HS"
 
 ```
+
+
