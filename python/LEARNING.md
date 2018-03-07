@@ -27,6 +27,9 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
+##
+
++ Python has universal newline support. Only need to use `\n`. No need for `\r\n`.
 
 ## REPL
 
@@ -99,15 +102,34 @@ print(double.__doc__)
 ## Data Types
 
 **String**
+
++ Immutable sequences of Unicode codepoints
++ No separate types between character and strings
++ Defaults to UTF-8
+
+
 ```python
 myStr = "Hello"
 myStr = 'Hello'
+
+# concat strings
+myStr = 'Hello' "you"
+# output Helloyou
 ```
 
 **Multiline String**
 ```python
 myStr = '''Hello
 you long string```
+```
+
+**Raw Strings**
+
+```python
+myStr = r'C:\Users\Merlin\Documents'
+# stored as 'C:\\Users\\Merlin\\Documents'
+
+str(496) # '496'
 ```
 
 **Integer**
@@ -181,6 +203,7 @@ bool("False") # True
 
 
 **Bytes and Byte Arrays - bytes / bytearray**
++ Immutable sequences of bytes
 
 
 **List**
