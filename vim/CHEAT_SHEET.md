@@ -20,9 +20,9 @@ e  " move to end of next word
 E  " move to end of next word, ignore special characters
 
 fx " move forward the to next occurence of 'x'
-Fx " move backward the to next occurence of 'x'
+Fx " move backward the to previous occurence of 'x'
 tx " move forward just before the next occurence of 'x'
-Tx " move backward just before the to next occurence of 'x'
+Tx " move backward just before the previous occurence of 'x'
 
 ^e "
 ^d " move down half the page and scroll
@@ -37,14 +37,6 @@ G  " move to the bottom of the file
 gg " move to the top of the file
 ```
 
-## Jumps
-
-```bash
-^o   " Go to the previous cursor position in history
-^i   " Go to the next cursor position in history
-`<   " Go to start of previous visual selection
-`>   " Go to end of previous visual selection
-```
 
 
 ## Editing
@@ -141,10 +133,17 @@ j     " join
 :g/^import/y A        " Copy all lines that start with import into register A. This appends to the register.
 ```
 
-## Jumps
+## Jumps and History
 
 ```bash
 :jumps   " list of jumps
+:changes " list of jumps where the file was changed
+
+^o       " Go to the previous cursor position in history
+^i       " Go to the next cursor position in history
+`<       " Go to start of previous visual selection
+`>       " Go to end of previous visual selection
+
 g;       " move cursor to previous edit in history
 g,       " move cursor to next edit in history
 gi       " move cursor to last and change to insert mode
@@ -186,6 +185,8 @@ gi       " move cursor to last and change to insert mode
 :E       " open directory explorer
 :split   " open directory with horizontal split
 :vsplit  " open directory with vertical split
+
+r  " refresh directory
 ```
 
 ## Other
