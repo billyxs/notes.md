@@ -1,5 +1,9 @@
 # Just Good
 
+## Funny
+
++ [An employee whose job was to be sacked](https://henrytapper.com/2010/01/09/an-employee-whose-job-was-to-be-sacked/)
+
 
 ## Design
 
