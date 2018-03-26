@@ -1,7 +1,11 @@
 # Python
 
 ## Learning
+
 + https://www.programiz.com/python-programming#tutorial
++ https://github.com/joaoventura/full-speed-python
++ http://chrispenner.ca/posts/python-tail-recursion
++ https://developers.google.com/edu/python/
 
 
 ## Packages
