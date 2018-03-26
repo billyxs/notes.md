@@ -1,25 +1,31 @@
 # Bible
 
+
 ## Resources
 
 ### Calvary Chapel Modesto - Damien Kyle
-*Damien Kyle*
+**Damien Kyle**
+
+http://www.ccmodesto.com/media
+
+
+*Media - Through the Bible*
 
 http://www.ccmodesto.com/media
 
 
 ### Grace To You
-*John MacArthur*
+**John MacArthur**
 
 http://www.gty.org/
 
 ### Reasonable Faith
-*William Lane Craig*
+**William Lane Craig**
 
 https://www.reasonablefaith.org/
 
 
 ### Insight for Living
-*Charles Swindoll*
+**Charles Swindoll**
 
 http://insight.org/
