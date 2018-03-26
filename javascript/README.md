@@ -14,3 +14,5 @@
 ## Building Command Line Tools
 [https://developer.atlassian.com/blog/2015/11/scripting-with-node/]
 
+## R core javascript implementation
+[https://github.com/jacobbogers/libRmath.js]

@@ -8,6 +8,7 @@
 + [Building a JSON API in Go](https://pragmacoders.com/building-a-json-api-in-golang/)
 + [Greater Commons](https://greatercommons.com/cwg)
 + [Applied Go](https://appliedgo.com/p/workplace-automation-with-go)
++ [How to use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 
 
 ## Structs
