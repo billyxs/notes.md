@@ -2,8 +2,9 @@
 
 ## Fixit
 
-[Fixing commit messages](https://gist.github.com/billyxs/435bc1db0eac9eac722705a490192cb6)
-
+- [Fixing commit messages](https://gist.github.com/billyxs/435bc1db0eac9eac722705a490192cb6)
+- [Conventional Commits](https://conventionalcommits.org/)
+  - Conventions to automate semver and change logs
 
 ## Get diff between branches
 [https://stackoverflow.com/questions/13965391/how-do-i-see-the-commit-differences-between-branches-in-git]
