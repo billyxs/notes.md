@@ -5,15 +5,18 @@
 + [CI/CD Is Not A Progression](https://hackernoon.com/ci-cd-is-not-a-progression-86ebc896571b)
 + [Exercises in Programming Style](https://henrikwarne.com/2018/03/13/exercises-in-programming-style/)
 
+
+## Continuous Delivery
+
+- [Rapid Release at Massive Scale](https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/)
+- [Continuous Delivery Sounds Great, but Will It Work Here?](https://queue.acm.org/detail.cfm?id=3190610)
+  - covers culture, management, and workflow
+
+
 ## Auth
 
 + [The Tripartite Identity Pattern](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
 + [Let's talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/)
-
-## Other
-
-- [Continuous Delivery Sounds Great, but Will It Work Here?](https://queue.acm.org/detail.cfm?id=3190610)
-  - covers culture, management, and workflow
 
 
 ## Todo
