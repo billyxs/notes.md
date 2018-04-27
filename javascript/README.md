@@ -16,3 +16,7 @@
 
 ## R core javascript implementation
 [https://github.com/jacobbogers/libRmath.js]
+
+## Learn Javascript
+- https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
