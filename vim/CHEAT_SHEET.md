@@ -24,7 +24,12 @@ Fx " move backward the to previous occurence of 'x'
 tx " move forward just before the next occurence of 'x'
 Tx " move backward just before the previous occurence of 'x'
 
-^e "
+0  " move to the beginning of the line
+$  " move to the end of the line
+^  " move to the first non-whitespace character on the line
+_  " move to the first non-whitespace character on the line
+
+^e " scroll screen up one line. cursor line doesn't change
 ^d " move down half the page and scroll
 ^u " move up half the page and scroll
 
