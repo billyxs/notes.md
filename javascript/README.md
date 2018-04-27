@@ -20,3 +20,6 @@
 ## Learn Javascript
 - https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+## Arrays
+- [Is Javascript Array Sort Stabe](https://medium.com/@fsufitch/is-javascript-array-sort-stable-46b90822543f)
