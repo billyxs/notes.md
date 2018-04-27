@@ -22,3 +22,4 @@
 
 ## Todo
 
++ [Pythran: Crossing the Python Frontier](https://www.computer.org/csdl/mags/cs/2018/02/mcs2018020083.pdf)
