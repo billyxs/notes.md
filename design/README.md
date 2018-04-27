@@ -1,5 +1,9 @@
 # Design
 
-## Terminal Fonts of my journey
+## Fonts
+
 - Droid Sans Mono *(currently used in terminal)*
-- https://github.com/nathco/Office-Code-Pro
+  - https://www.fontsquirrel.com/fonts/droid-sans-mono
+  - https://github.com/AlbertoDorado/droid-sans-mono-zeromod
+- Office Code Pro
+  - https://github.com/nathco/Office-Code-Pro
