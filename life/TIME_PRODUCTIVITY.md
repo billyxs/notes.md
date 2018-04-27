@@ -1,5 +1,12 @@
 # Time Mangement and Productivity
 
+## Articles
+- [Maker's Schedule](http://paulgraham.com/makersschedule.html)
+
+## Tools
+- https://www.tryeffortless.com/
+
+
 ## Why We Like Distractions
 
 https://ia.net/topics/distractions-and-how-to-fight-them/
