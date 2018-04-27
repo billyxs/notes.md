@@ -12,6 +12,7 @@
 ## List
 
 + http://blog.dlib.net/2017/12/a-global-optimization-algorithm-worth.html?m=1
++ http://blog.timoxley.com/post/47041269194/avoid-else-return-early
 + http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html?m=1
 + http://brendanjryan.com/golang/profiling/2018/02/28/profiling-go-applications.html
 + http://cppdepend.com/blog/?p=395
@@ -26,6 +27,7 @@
 + http://libdill.org/tutorial-sockets.html
 + http://mlreference.com/spacy
 + http://mulholland.xyz/docs/ivy/
++ http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind
 + http://okmij.org/ftp/Computation/monadic-shell.html
 + http://principlesofchaos.org/
 + http://rachelbythebay.com/w/2018/03/23/ducttape/
@@ -46,6 +48,7 @@
 + https://archive.org/details/SelectedPapers1977
 + https://blog.agilebits.com/2018/01/25/terraforming-1password/
 + https://blog.des.io/posts/2018-03-08-fibonacci.html
++ https://blog.golang.org/versioning-proposal
 + https://blog.infinitenegativeutility.com/2017/12/some-notes-about-how-i-write-haskell
 + https://blog.intercom.com/run-less-software/
 + https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd
@@ -65,6 +68,7 @@
 + https://github.com/Submanifold/latex-mimosis
 + https://github.com/agnusmaximus/Word2Bits
 + https://github.com/aqlaboratory/proteinnet
++ https://github.com/bennorth/pyawssfn
 + https://github.com/djrobstep/migra
 + https://github.com/quii/learn-go-with-tests/tree/master/hello-world
 + https://github.com/susam/gitpr/blob/master/README.md
@@ -72,12 +76,15 @@
 + https://gokrazy.org/
 + https://groups.google.com/forum/m/#!topic/golang-nuts/F5xFHTfwRnY
 + https://hacks.mozilla.org/2018/03/immersive-aframe-low-poly/
++ https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/
 + https://lcamtuf.blogspot.com/2018/02/on-leadership.html?m=1
 + https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68?ref=hn322
 + https://made2591.github.io/posts/aws-lambda
++ https://medium.com/@rebane/could-ai-have-saved-the-cyclist-had-i-programmed-the-uber-car-6e899067fefe
 + https://medium.com/basecs/compressing-radix-trees-without-too-many-tears-a2e658adb9a0
 + https://medium.com/the-guild/graphql-geo-strike-93a660eba70a
 + https://news.yale.edu/2018/03/08/enemy-within-gut-bacteria-drive-autoimmune-disease
++ https://news.ycombinator.com/item?id=16680868
 + https://onsaasproducts.wordpress.com/2012/03/09/developing-saas-forget-scrum-check-out-kanban-and-similar-approaches/
 + https://peter.bourgon.org/go-best-practices-2016/
 + https://research.swtch.com/vgo-cmd
@@ -109,4 +116,6 @@
 + https://www.trapfi.com/
 + https://www.viva64.com/en/b/0509/
 + https://www.xltrail.com/git-xltrail
++ https://www.youtube.com/watch?v=b7FxPsqfkOY
 + https://www.youtube.com/watch?v=spUNpyF58BY&feature=share
++ https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/
