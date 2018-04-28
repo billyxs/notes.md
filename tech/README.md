@@ -14,3 +14,7 @@
 
 ## ARM - Advanced RISC Machines
 - [Finding design errors before it's too late](https://community.arm.com/soc/b/blog/posts/finding-design-errors-before-its-too-late)
+
+## Funny
+
+- [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
