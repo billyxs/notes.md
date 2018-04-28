@@ -7,6 +7,8 @@
 ```bash
 brew tap caskroom/fonts
 brew cask install font-office-code-pro
+brew cask install font-droidsansmono-nerd-font
+brew cask install font-droid-sans-mono-for-powerline
 ```
 
 
