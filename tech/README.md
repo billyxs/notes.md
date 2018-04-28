@@ -18,3 +18,10 @@
 ## Funny
 
 - [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
+
+## Redis
+
+- [Scaling a High-traffic Rate Limiting Stack With Redis Cluster](https://brandur.org/redis-cluster)
+
+## Job / Interview
+- [10 Things I learned from a job hunt for a senoir engineering role](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html)
