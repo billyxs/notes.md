@@ -1,5 +1,27 @@
 # Javascript
 
+## New web features
+https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
+
+
+## Functional Programming
+
+### Master the Javascript Interview: What is functional programming
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+
+> Functional programming is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions.
+
+* Pure functions
+* Function composition
+* Avoid shared state
+* Avoid mutating state
+* Avoid side effects
+
+> A pure function is a function which:
+* Given the same inputs, always returns the same output, and
+* Has no side-effects
+
+
 ## Node / V8 Engine
 [https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e]
 
@@ -23,3 +45,8 @@
 
 ## Arrays
 - [Is Javascript Array Sort Stabe](https://medium.com/@fsufitch/is-javascript-array-sort-stable-46b90822543f)
+
+## Payments API
+
+- [Payment Request API for Apple Pay](https://webkit.org/blog/8182/introducing-the-payment-request-api-for-apple-pay/)
+- [W3C - Payment Request API](https://www.w3.org/TR/payment-request/)
