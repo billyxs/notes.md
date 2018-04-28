@@ -1,8 +1,14 @@
 # Work and Leadership
 
+
+
 **Managing People Articles**
 
 https://hbr.org/topic/managing-people
+
+## Articles
+
+- [Zapier CTO: Working with Remote Engineers](https://youteam.io/blog/interview-with-bryan-cto-and-co-founder-of-zapier-on-working-with-remote-engineers/)
 
 
 ## 12 Traits of Truly Authentic People
