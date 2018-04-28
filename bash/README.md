@@ -85,3 +85,6 @@ $ riplace
 $ Search: Hello
 $ Replace: Goodbye
 ```
+
+## rm
+- [Unraveling `rm`: What happens when you run it](https://blog.safia.rocks/post/173241985600/unraveling-rm-what-happens-when-you-run-it)
