@@ -4,6 +4,7 @@
 
 - [Time and Productivity](https://github.com/billyxs/notes.md/blob/master/life/TIME_PRODUCTIVITY.md)
 - [Work and Leadership](https://github.com/billyxs/notes.md/blob/master/life/WORK_LEADERSHIP.md)
+- [Quotes](https://github.com/billyxs/notes.md/blob/master/life/QUOTES.md)
 
 **Quantum Theory and Reality** - by Bernard d 'Espagnat
 
