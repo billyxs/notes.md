@@ -24,6 +24,5 @@ with quantum mechanics and with facts established by experiment
 
 ## Todo
 
-+ https://www.fastcompany.com/3057192/these-are-the-long-term-effects-of-multitasking
 + https://productivityreport.org/2016/12/05/productivity-tip-save-easy-tasks-for-when-youre-interrupted-most/
 + https://en.wikipedia.org/wiki/Flow_%28psychology%29
