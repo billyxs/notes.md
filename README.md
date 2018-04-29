@@ -1,5 +1,11 @@
 # Notes
 
+## Todo
+- [Hacker News](https://news.ycombinator.com/)
+- [Tech Crunch](https://techcrunch.com/)
+- https://github.com/billyxs/notes.md/tree/master/todo
+## Contents
+
 + [Compsci](https://github.com/billyxs/notes.md/tree/master/compsci)
 + [Algorithms](https://github.com/billyxs/notes.md/tree/master/algorithms)
 + [Artificial Intelligence](https://github.com/billyxs/notes.md/tree/master/artificial-intelligence)
