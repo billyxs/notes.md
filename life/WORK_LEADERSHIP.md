@@ -114,7 +114,7 @@ GOTO 2015 Agile is Dead - by Pragmatic Dave Thomas
 [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 
-###1999 Development###
+### 1999 Development
 
 - UML - Unified Modeling Language
   - ~"Total focus on classes rather than objects probably destroyed object oriented language"
@@ -123,8 +123,10 @@ GOTO 2015 Agile is Dead - by Pragmatic Dave Thomas
 - Ideas around Adaptive Software Development
 
 
-###The Manifesto For Agile Software Development###
+### The Manifesto For Agile Software Development
 _unfortunately people call it "The Agile Manifesto"_
+
+http://agilemanifesto.org/
 
 - Agile is an adjective, not a noun
   - an agile gymnast
