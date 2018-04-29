@@ -1,11 +1,5 @@
 # Bash
 
-## Tools
-- [Stow](https://www.gnu.org/software/stow/manual/stow.html)
-  - https://alexpearce.me/2016/02/managing-dotfiles-with-stow/
-- [Weather - wttr.in](https://github.com/chubin/wttr.in)
-
-
 ## awk
 
 + [Write AWK Commands and Scripts](https://www.lifewire.com/write-awk-commands-and-scripts-2200573)
