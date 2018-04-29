@@ -1,14 +1,49 @@
 # Work and Leadership
 
-
+## Articles
 
 **Managing People Articles**
 
 https://hbr.org/topic/managing-people
 
+
 ## Articles
 
 - [Zapier CTO: Working with Remote Engineers](https://youteam.io/blog/interview-with-bryan-cto-and-co-founder-of-zapier-on-working-with-remote-engineers/)
+
+
+## Six Verbs That Make You Sound Weak No Matter Your Job Title
+https://www.fastcompany.com/40523559/six-verbs-that-make-you-sound-weak-no-matter-your-job-title
+
+- Overusing weak verbs can make you sound weaker
+- Weak verbs undercut your ability to inspire others
+- Weak verbs make you sound unsure of yourself
+
+- The list
+  - **Think**
+    - It's not definitive enough
+    - Subtly suggests your still considering the position and are not sure of it
+    - "I think..." is a throwaway phrase
+  - **Need**
+    - Conjures up a feeling of dependency
+    - "I need" makes you sound needy
+    - Makes requests sound like you're pleading
+  - **Want**
+    - Similar to **Need**
+    - "I want you to improve..." Suggests you aren't getting what you want
+    - "I want a raise" is an emotional appeal and signals a lack of confidence
+  - **Guess**
+    - Conveys tentativeness
+    - If you aren't sure, that's fine. Don't lie or exaggerate
+    - Rather than guess, use the most confident expression you can
+  - **Hope**
+    - Suggests that the speaker has little control over the outcome
+      - "I hope we get the sale"
+    - Use empowering statements like, "I know we will give it our all"
+  - **Suppose**
+    - Quietly indicates it doesn't really matter to you - you are not really engaged
+    - There's no occasion in the workplace where conveying your indifference and inertia will improve you influence and authority.
+    - Find something to express you passion for.
 
 
 ## 12 Traits of Truly Authentic People
