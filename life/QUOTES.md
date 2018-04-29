@@ -1,12 +1,14 @@
 # Quotes
 
-**Aristotle** - _[Not Aristotle, but Will Durant](https://medium.com/the-mission/my-favourite-quote-of-all-time-is-a-misattribution-66356f22843d)_
+**Aristotle** - _[Not Aristotle, but Will Durant](https://caelanhuntress.com/2017/08/24/my-favourite-quote-of-all-time-is-a-misattribution/)_
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+
 
 **Provers 10:19**
 > When words are many, sin is not absent, but he who holds his tongue is wise.
 
 **Herbie Hancock**
+
 
 > I was working with Miles Davis and I played something that was technically wrong. I thought I had just destroyed everything. Miles played some notes, and he made my chord right. I judged what I played, Miles didn't. And that's what every jazz musician should do...
 
