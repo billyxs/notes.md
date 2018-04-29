@@ -1,5 +1,6 @@
 # Postgresql
 
++ [PipelineDB Extension](https://www.pipelinedb.com/blog/pipelinedb-0-9-9-one-more-release-until-pipelinedb-is-a-postgresql-extension)
 + [http://rhaas.blogspot.com/2018/01/do-or-undo-there-is-no-vacuum.html]
 
 # Fix version issue
@@ -22,6 +23,8 @@ pg_ctl -D /usr/local/var/postgres start && brew services start postgresql
 ## LEARNING
 
 ### Cli commands
+- [Postgres Data Types, Date, Timestamp, and Time Zones](https://tapoueh.org/blog/2018/04/postgresql-data-types-date-timestamp-and-time-zones/)
+- [Favorite Postgres Queries](https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter)
 
 `psql postgres` - initial database setup
 
