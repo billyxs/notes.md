@@ -41,3 +41,4 @@ package main
 + [Create PDF Documents with Go](https://appliedgo.net/pdf/)
 + [Go Slices](http://www.golangprograms.com/go-language/slices-in-golang-programming.html)
 + [5 Gotchas of Defer in Go](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
++ [Go: Th good, bad, and ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
