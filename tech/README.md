@@ -18,6 +18,7 @@
 ## Funny
 
 - [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
+- [A programmer wrote scripts to secretly automate a lot of his job — and email his wife and make a latte](http://www.businessinsider.com/programmer-automates-his-job-2015-11)
 
 ## Redis
 
