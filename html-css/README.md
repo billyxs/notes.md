@@ -5,3 +5,7 @@
 ## Icons
 
 - [cssicon.space](cssicon.space)
+
+## Other
+
++ [Pure CSS oil paiting](http://diana-adrianne.com/purecss-francine/)
