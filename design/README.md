@@ -17,3 +17,7 @@ brew cask install font-droid-sans-mono-for-powerline
   - https://github.com/AlbertoDorado/droid-sans-mono-zeromod
 - Office Code Pro
   - https://github.com/nathco/Office-Code-Pro
+
+## Other
+
+- [Kerntype - A kerning game](http://type.method.ac/)

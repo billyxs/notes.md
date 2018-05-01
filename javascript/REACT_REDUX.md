@@ -6,9 +6,15 @@
 - [Total React course](https://courses.totalreact.com/)
 - [React training](https://reacttraining.com/patterns/)
 - [React 16 Context API](https://www.youtube.com/watch?v=9Ilq6G-VMyQ)
+
 - [Conditional rendering in React](https://www.robinwieruch.de/conditional-rendering-react/)
 - [Testing React components](https://medium.com/@skidding/testing-react-components-30516bc6a1b3)
 - [Tranform SVG into React components](https://github.com/smooth-code/svgr)
+
+### HOCs and RenderProps
+- [Upgrade your react.js hoc with renderProps](https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/)
+- [I’m Breaking up with Higher Order Components.](https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052)
+- [Solving the problems of Higher Order Components without throwing the baby out with the bathwater](https://medium.com/appifycanada/solving-the-problems-of-higher-order-components-without-throwing-the-baby-out-with-the-bathwater-40ddc72df5aa)
 
 
 # Redux
