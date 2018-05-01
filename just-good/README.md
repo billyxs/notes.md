@@ -13,6 +13,7 @@
 ## Science
 
 + [Weaver weaves a spider tapestry of your favorite image.](https://github.com/glouw/weaver)
++ [Infinity Puzzle](https://n-e-r-v-o-u-s.com/blog/?p=7613)
 
 
 ### History
