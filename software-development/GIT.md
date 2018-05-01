@@ -1,13 +1,19 @@
 # Git
 
-## Fixit
+https://github.com/tj/git-extras/blob/master/Commands.md
+
+## Commits and collaboration
 
 - [Fixing commit messages](https://gist.github.com/billyxs/435bc1db0eac9eac722705a490192cb6)
-- [Conventional Commits](https://conventionalcommits.org/)
+- [Conventional commits](https://conventionalcommits.org/)
   - Conventions to automate semver and change logs
+- [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
+- [4 rules for effective collaboration](https://github.com/salemove/github-review-helper/blob/master/doc/rules.md#four-rules-for-effective-collaboration)
+- [On commit messages](http://who-t.blogspot.com.ee/2009/12/on-commit-messages.html)
+
 
 ## Get diff between branches
-[https://stackoverflow.com/questions/13965391/how-do-i-see-the-commit-differences-between-branches-in-git]
+[How do I see the commit differences betweenk](https://stackoverflow.com/questions/13965391/how-do-i-see-the-commit-differences-between-branches-in-git)
 View commits that are not on the master branch
 
 ```bash
@@ -33,6 +39,7 @@ To make git log nicer by default, I typically set these global preferences:
 git config --global log.decorate true
 git config --global log.abbrevCommit true
 ```
+
 ## Migrate from one repo to another
 
 https://medium.com/collaborne-engineering/how-to-migrate-a-private-repository-from-bitbucket-to-github-6cddedd5d73
