@@ -16,3 +16,23 @@
 **Oliver Reichenstein**
 
 > Starting and finishing need courage. There is no app or tool that will give you courage. But there are environments that encourage distraction. And there are environments that encourage you to focus.
+
+
+**Oliver Wendell Holmes, Jr.**
+> A mind that is stretched by a new experience can never go back to its old dimensions.
+
+
+**Napoleon**
+> When the enemy is making a false movement we must take good care not to interrupt him.
+
+
+**Niels Bohr**
+> An expert is a man who has made all the mistakes which can be made in a very narrow field.
+
+
+**Steve Jobs**
+> Focusing is about saying no.
+
+
+**Alan Kay**
+> Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.

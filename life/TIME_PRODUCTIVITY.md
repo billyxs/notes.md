@@ -1,5 +1,10 @@
 # Time Mangement and Productivity
 
+
+**Steve Jobs**
+> Focusing is about saying no.
+
+
 ## Articles
 - [Maker's Schedule](http://paulgraham.com/makersschedule.html)
 - https://www.fastcompany.com/3034138/5-things-youre-doing-that-seem-productive-but-arent
