@@ -10,11 +10,14 @@
 - [Conditional rendering in React](https://www.robinwieruch.de/conditional-rendering-react/)
 - [Testing React components](https://medium.com/@skidding/testing-react-components-30516bc6a1b3)
 - [Tranform SVG into React components](https://github.com/smooth-code/svgr)
+- [Why Arrow Functions and bind in React’s Render are Problematic](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36)
 
 ### HOCs and RenderProps
 - [Upgrade your react.js hoc with renderProps](https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/)
 - [I’m Breaking up with Higher Order Components.](https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052)
 - [Solving the problems of Higher Order Components without throwing the baby out with the bathwater](https://medium.com/appifycanada/solving-the-problems-of-higher-order-components-without-throwing-the-baby-out-with-the-bathwater-40ddc72df5aa)
+
+###
 
 
 # Redux
