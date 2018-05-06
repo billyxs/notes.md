@@ -16,6 +16,7 @@
 - [gtop](https://www.npmjs.com/package/gtop)
 - [Stow](https://www.gnu.org/software/stow/manual/stow.html)
 - [Weather - wttr.in](https://github.com/chubin/wttr.in)
+- [cmus - terminal media player](https://github.com/cmus/)
 
 ## Articles
 
