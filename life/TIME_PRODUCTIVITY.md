@@ -9,6 +9,7 @@
 - [Maker's Schedule](http://paulgraham.com/makersschedule.html)
 - https://www.fastcompany.com/3034138/5-things-youre-doing-that-seem-productive-but-arent
 - https://www.fastcompany.com/40521002/four-great-reasons-to-rip-up-your-to-do-list
+- https://nomasters.io/posts/dumber-phone/
 
 ## Tools
 - https://www.tryeffortless.com/
