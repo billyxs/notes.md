@@ -9,4 +9,11 @@ http://www.math.utah.edu/~pa/3000/halmos.pdf
 ## How to study math
 https://www.math.uh.edu/~dblecher/pf2.html
 
+
+## Statistics and Probability
+
+**100 Prisoner Problem**
+- Solution - http://datagenetics.com/blog/december42014/index.html
+  - Comrade option
+
 # Todo
