@@ -1,7 +1,8 @@
 # Postgresql
 
-+ [PipelineDB Extension](https://www.pipelinedb.com/blog/pipelinedb-0-9-9-one-more-release-until-pipelinedb-is-a-postgresql-extension)
-+ [http://rhaas.blogspot.com/2018/01/do-or-undo-there-is-no-vacuum.html]
+- [PipelineDB Extension](https://www.pipelinedb.com/blog/pipelinedb-0-9-9-one-more-release-until-pipelinedb-is-a-postgresql-extension)
+- [http://rhaas.blogspot.com/2018/01/do-or-undo-there-is-no-vacuum.html]
+- [Scalable PostgreSQL - Streaming](https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af)
 
 # Fix version issue
 
