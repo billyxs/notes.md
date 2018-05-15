@@ -164,6 +164,7 @@ gi       " move cursor to last and change to insert mode
 :bp  " go to previous buffer
 :bn  " go to next buffer
 :bd  " delete buffer
+:%bd  " delete all buffers
 ```
 
 ## Windows
@@ -197,12 +198,13 @@ r  " refresh directory
 ## Other
 
 ```
-:%TOhtml  " create the current file contents as HTML document
+:%TOhtml   " create the current file contents as HTML document
 
-:r! ls    " pull ls output into the vim session
-:r! date  " pull date into the vim session
+:r! ls     " pull ls output into the vim session
+:r! date   " pull date into the vim session
 
 " suspend vim and use terminal
-<Ctrl-z>  " suspend vim session
-fg        " go back to to suspended vim session
+<Ctrl-z>   " suspend vim session
+fg         " go back to to suspended vim session
+g <Ctrl-g> " show file info based on the cursor position
 ```
