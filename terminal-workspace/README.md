@@ -17,6 +17,7 @@
 - [Stow](https://www.gnu.org/software/stow/manual/stow.html)
 - [Weather - wttr.in](https://github.com/chubin/wttr.in)
 - [cmus - terminal media player](https://github.com/cmus/)
+- [ZSH Vi Mode](https://dougblack.io/words/zsh-vi-mode.html)
 
 ## Articles
 
