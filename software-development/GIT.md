@@ -1,6 +1,7 @@
 # Git
 
-https://github.com/tj/git-extras/blob/master/Commands.md
+- [Git extras - commands](https://github.com/tj/git-extras/blob/master/Commands.md)
+- [A monorepo, GitHub flow and automation](https://hackernoon.com/a-monorepo-github-flow-and-automation-ftw-c41a2d9c48bb)
 
 ## Commits and collaboration
 
@@ -12,7 +13,9 @@ https://github.com/tj/git-extras/blob/master/Commands.md
 - [On commit messages](http://who-t.blogspot.com.ee/2009/12/on-commit-messages.html)
 
 
-## Get diff between branches
+## Git Diff
+
+### Get diff between branches
 [How do I see the commit differences betweenk](https://stackoverflow.com/questions/13965391/how-do-i-see-the-commit-differences-between-branches-in-git)
 View commits that are not on the master branch
 
@@ -30,6 +33,20 @@ View file changes
 git diff --stat  master..develop
 git diff --stat origin/master..origin/develop
 ```
+
+### Git diff files between commits
+[Find all files modified between commits in Git](https://coderwall.com/p/lz0uva/find-all-files-modified-between-commits-in-git)
+
+File diff between the last two commits on current branch
+```bash
+git diff --name-only HEAD HEAD~1
+```
+
+File diff between two SHAs
+```bash
+git diff --name-only <SHA1> <SHA2> 
+```
+
 
 ## Git config
 
