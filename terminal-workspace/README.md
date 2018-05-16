@@ -25,3 +25,5 @@ List of articles of how my we got to our result
 
 - [Sync ITerm2 Profile with Dot Files Repository](http://stratus3d.com/blog/2015/02/28/sync-iterm2-profile-with-dotfiles-repository/)
 - [Managing Dot Files with Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+- [The Ultimate Terminal](https://medium.com/@joe_wolfe_21/the-ultimate-terminal-67e93665459d)
+- [macOS ohmyzsh + tmux + vim + iTerm2 + Powerlevel9k = Badass terminal](http://jessicadeen.com/tech/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-terminal/)

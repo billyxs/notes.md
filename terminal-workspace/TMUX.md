@@ -10,3 +10,6 @@ set -g default-terminal "xterm"
 
 ## Plugins
 - https://github.com/tmuxinator/tmuxinator
+
+## Cheat sheets
+- https://gist.github.com/MohamedAlaa/2961058
