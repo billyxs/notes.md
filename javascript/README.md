@@ -5,6 +5,8 @@ https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
 
 
 ## Functional Programming
+- (Tail call optimization in ECMAScript 6)[http://2ality.com/2015/06/tail-call-optimization.html#checking-whether-a-function-call-is-in-a-tail-position]
+- (Using trampolines to manage large recursive loops in JavaScript)[https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3]
 
 ### Master the Javascript Interview: What is functional programming
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
