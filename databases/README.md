@@ -1,5 +1,10 @@
 # Database
 
-## Todo
+## Mongodb 
 
-https://techcrunch.com/2018/02/15/mongodb-gets-support-for-multi-document-acid-transactions/
+- [Mongodb gets support for multi document acid transactions](https://techcrunch.com/2018/02/15/mongodb-gets-support-for-multi-document-acid-transactions/)
+
+
+## Redis
+
+- [Scaling a High-traffic Rate Limiting Stack With Redis Cluster](https://brandur.org/redis-cluster)
