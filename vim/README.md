@@ -17,6 +17,7 @@
 + [5 Plugins I can't live without](https://hackernoon.com/5-vim-plugins-i-cant-live-without-for-javascript-development-f7e98f98e8d5)
 + [Simplifying regular expressions using magic and no-magic](http://vim.wikia.com/wiki/Simplifying_regular_expressions_using_magic_and_no-magic)
 + [Setting up Vim for React development](https://drivy.engineering/setting-up-vim-for-react/)
++ [Vim Splits - Move Faster and More Naturally](https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally)
 
 
 ## Talks
