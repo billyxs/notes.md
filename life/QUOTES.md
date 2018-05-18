@@ -36,3 +36,7 @@
 
 **Alan Kay**
 > Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.
+
+
+**Vikram (The Office US)**
+> Confidence is the food of the wise man but the liquor of the fool.
