@@ -27,3 +27,48 @@ set -g default-terminal "xterm"
 
 ## Confs
 - https://gist.github.com/spicycode/1229612
+
+
+## Cheat Sheet
+
+### Commands
+```
+tmux new -s base       - create a new session called "base"
+tmux attach -t base    - attach to session named "base" 
+tmux attach            - attach to previous session
+
+```
+
+### Sessions 
+```bash
+Prefix + (     - switch to previous session 
+Prefix + )     - switch to next session 
+Prefix + s     - display an interactive session list
+Prefix + d     - detach from session 
+```
+
+### Windows
+```bash
+Prefix + c     - create a new window
+Prefix + ,     - rename window
+Prefix + p     - switch to previous window 
+Prefix + n     - switch to next window 
+Prefix + 0-9   - switch to window using index number
+Prefix + o     - switch to next pane 
+```
+
+### Panes
+```bash
+Prefix + %     - split the active pane vertically 
+Prefix + "     - split the active pane horizontally 
+Prefix + ,     - rename window
+Prefix + z     - toggle zoom on an active pane 
+
+```
+
+### Exit or kill processes 
+```bash
+Prefix + x     - force kill unresponsive task 
+Prefix + &     - force kill-all processes in an unresponsive window
+exit           - close window
+```
