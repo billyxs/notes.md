@@ -23,24 +23,25 @@ set -g default-terminal "xterm"
 
 ## Cheat sheets
 - https://gist.github.com/MohamedAlaa/2961058
+- https://gist.github.com/andreyvit/2921703
 
 
 ## Confs
 - https://gist.github.com/spicycode/1229612
 
 
-## Cheat Sheet
+# Cheat Sheet
 
 **Prefix** default is Control+b, but many in the community like to bind the prefix to Control+a. I've taken a liking to Control-o. 
 
-### Commands
+## Commands
 ```
 tmux new -s base       - create a new session called "base"
 tmux attach -t base    - attach to session named "base" 
 tmux attach            - attach to previous session
 ```
 
-### Sessions 
+## Sessions 
 ```bash
 Prefix + s     - display list of sessions
 Prefix + (     - switch to previous session 
@@ -48,7 +49,7 @@ Prefix + )     - switch to next session
 Prefix + d     - detach from session 
 ```
 
-### Windows
+## Windows
 ```bash
 Prefix + w     - see window list 
 Prefix + c     - create a new window
@@ -59,7 +60,7 @@ Prefix + 0-9   - switch to window using index number
 Prefix + o     - switch to next pane 
 ```
 
-### Panes
+## Panes
 ```bash
 Prefix + %     - split the active pane vertically 
 Prefix + "     - split the active pane horizontally 
@@ -67,12 +68,12 @@ Prefix + ,     - rename window
 Prefix + z     - toggle zoom on an active pane 
 ```
 
-### Navigation
+## Navigation
 ```
 Prefix + [     - enable Vim key bindings to move the cursor through the terminal output 
 ```
 
-### Exit and kill processes 
+## Exit and kill processes 
 ```bash
 Prefix + x     - force kill unresponsive task 
 Prefix + &     - force kill-all processes in an unresponsive window
