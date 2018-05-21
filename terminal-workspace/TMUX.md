@@ -7,6 +7,7 @@
 - [A case against C-a in TMUX](https://coderwall.com/p/sojscq/a-case-against-c-a-in-tmux)
 - [Persistant terminal sessions with TMUX](https://www.linode.com/docs/networking/ssh/persistent-terminal-sessions-with-tmux/)
 - [Getting started with TMUX](https://news.ycombinator.com/item?id=9505647)
+- [Learn X in Y - TMUX](https://learnxinyminutes.com/docs/tmux/)
 
 
 ## Setup help 
@@ -24,6 +25,7 @@ set -g default-terminal "xterm"
 
 
 ## Cheat sheets
+- https://tmuxcheatsheet.com/
 - https://gist.github.com/MohamedAlaa/2961058
 - https://gist.github.com/andreyvit/2921703
 
@@ -46,6 +48,9 @@ tmux new -s base       - create a new session called "base"
 tmux attach -t base    - attach to session named "base" 
 tmux attach            - attach to previous session
 tmux clear-history     - clear history
+tmux info              - list out all sessions, windows, panes and their pids, etc
+tmux list-commands     - list all tmux commands and their arguments
+tmux list-keys         - list all bound keys and the tmux command it runs
 ```
 
 ## Sessions 
