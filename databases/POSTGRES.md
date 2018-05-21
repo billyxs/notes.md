@@ -32,27 +32,29 @@ pg_ctl -D /usr/local/var/postgres start && brew services start postgresql
 - [Postgres Data Types, Date, Timestamp, and Time Zones](https://tapoueh.org/blog/2018/04/postgresql-data-types-date-timestamp-and-time-zones/)
 - [Favorite Postgres Queries](https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter)
 
-`psql postgres` - initial database setup
+```bash
+psql postgres - initial database setup
 
-`psql postgres -U username` - login to database as user
+psql postgres -U username - login to database as user
 
-`CREATE ROLE username WITH LOGIN PASSWORD 'quoted password';` - setup user
+CREATE ROLE username WITH LOGIN PASSWORD 'quoted password'; - setup user
 
-`ALTER ROLE username CREATEDB;` - change permissions, add createdb permissions
+ALTER ROLE username CREATEDB; - change permissions, add createdb permissions
 
-`CREATE DATABASE databasename;` - create db
+CREATE DATABASE databasename; - create db
 
-`GRANT ALL PRIVILEGES ON DATABASE super_awesome_application TO username;` - give all permissions
+GRANT ALL PRIVILEGES ON DATABASE super_awesome_application TO username; - give all permissions
 
-`\du` - view users
+\du - view users
 
-`\q` - quit cli
+\q - quit cli
 
-`\list` - list all databases on server
+\list or \l  - list all databases on server
 
-`\connect` - connect to database on server
+\connect DBNAME or \c DBNAME  - connect to database on server
 
-`\dt` - list the tables currently connected on the server
+\dt - table list of current database
+```
 
 
 
