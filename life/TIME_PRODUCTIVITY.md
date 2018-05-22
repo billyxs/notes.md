@@ -6,13 +6,18 @@
 
 
 ## Articles
-- [Maker's Schedule](http://paulgraham.com/makersschedule.html)
 - https://www.fastcompany.com/3034138/5-things-youre-doing-that-seem-productive-but-arent
 - https://www.fastcompany.com/40521002/four-great-reasons-to-rip-up-your-to-do-list
 - https://nomasters.io/posts/dumber-phone/
 
+## Meetings
+- [Maker's Schedule](http://paulgraham.com/makersschedule.html)
+- [Too Many Meetings Suffocate Productivity and Morale](https://www.entrepreneur.com/article/304610)
+
+
 ## Tools
 - https://www.tryeffortless.com/
+
 
 ## These Are The Long Term Effects Of Multitasking
 
