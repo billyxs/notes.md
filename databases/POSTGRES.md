@@ -54,6 +54,8 @@ GRANT ALL PRIVILEGES ON DATABASE super_awesome_application TO username; - give a
 \connect DBNAME or \c DBNAME  - connect to database on server
 
 \dt - table list of current database
+
+\d+ TABLENAME - describe the table 
 ```
 
 
