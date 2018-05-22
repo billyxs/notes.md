@@ -8,6 +8,11 @@ https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
 - (Tail call optimization in ECMAScript 6)[http://2ality.com/2015/06/tail-call-optimization.html#checking-whether-a-function-call-is-in-a-tail-position]
 - (Using trampolines to manage large recursive loops in JavaScript)[https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3]
 
+
+## Async
+- [JavaScript Async/Await: Serial, Parallel and Complex Flow](https://techbrij.com/javascript-async-await-parallel-sequence)
+
+
 ### Master the Javascript Interview: What is functional programming
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
 
@@ -27,6 +32,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 ## Node / V8 Engine
 [https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e]
 
+
 ## Web Workers
 [https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a]
 
@@ -35,11 +41,14 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 ## Web Sockets
 [https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7]
 
+
 ## Building Command Line Tools
 [https://developer.atlassian.com/blog/2015/11/scripting-with-node/]
 
+
 ## R core javascript implementation
 [https://github.com/jacobbogers/libRmath.js]
+
 
 ## Learn Javascript
 - https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
@@ -48,7 +57,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 ## Arrays
 - [Is Javascript Array Sort Stabe](https://medium.com/@fsufitch/is-javascript-array-sort-stable-46b90822543f)
 
-## Payments API
 
+## Payments API
 - [Payment Request API for Apple Pay](https://webkit.org/blog/8182/introducing-the-payment-request-api-for-apple-pay/)
 - [W3C - Payment Request API](https://www.w3.org/TR/payment-request/)
