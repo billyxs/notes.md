@@ -68,6 +68,7 @@ Prefix + c     - create a new window
 Prefix + ,     - rename window
 Prefix + p     - switch to previous window 
 Prefix + n     - switch to next window 
+Prefix + l     - switch to last active window 
 Prefix + 0-9   - switch to window using index number
 Prefix + o     - switch to next pane 
 ```
