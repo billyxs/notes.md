@@ -90,15 +90,20 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 **Themes**
 
-+ https://github.com/rainglow/vim
-+ https://github.com/flazz/vim-colorschemes
-+ https://github.com/mhartington/oceanic-next
-+ https://github.com/lifepillar/vim-solarized8
++ https://github.com/Alvarocz/vim-fresh
 + https://github.com/ajh17/Spacegray.vim
-+ https://github.com/rakr/vim-one
-+ https://github.com/nightsense/seabird
-+ https://github.com/martinlindhe/base16-iterm2
 + https://github.com/chriskempson/base16-vim
++ https://github.com/flazz/vim-colorschemes
++ https://github.com/larsbs/vimterial_dark
++ https://github.com/lifepillar/vim-solarized8
++ https://github.com/martinlindhe/base16-iterm2
++ https://github.com/mhartington/oceanic-next
++ https://github.com/nightsense/seabird
++ https://github.com/rainglow/vim
++ https://github.com/rakr/vim-one
++ https://github.com/tomasiser/vim-code-dark
++ https://github.com/widatama/vim-phoenix
++ https://github.com/wimstefan/vim-artesanal
 
 
 **Tools/Performance**
