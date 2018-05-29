@@ -33,6 +33,11 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 [https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e]
 
 
+### Debugging
+- https://nodejs.org/en/docs/guides/debugging-getting-started/
+- https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
+
 ## Web Workers
 [https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a]
 
