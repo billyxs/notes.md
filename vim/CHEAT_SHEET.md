@@ -225,4 +225,5 @@ r  " refresh directory
 <Ctrl-z>   " suspend vim session
 fg         " go back to to suspended vim session
 g <Ctrl-g> " show file info based on the cursor position
+ga          " print ascii value of char under cursor in decimal, hexidecimal, octal
 ```
