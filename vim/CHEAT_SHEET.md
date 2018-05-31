@@ -115,8 +115,10 @@ o    " toggle cursor to start and end of visual selection
 
 ## Autocomplete
 
+**Insert mode**
 ```bash
 ^p    " autocomplete word in session
+^n    " autocomplete word in session
 ^x^l  " autocomplete file path if found in your session
 ```
 
