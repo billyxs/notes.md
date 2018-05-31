@@ -60,6 +60,8 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 **Directory**
 
 + https://github.com/justinmk/vim-dirvish
++ https://github.com/jeetsukumaran/vim-filebeagle
++ https://github.com/tpope/vim-vinegar
 
 
 **Git**
@@ -75,11 +77,11 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 **Syntax**
 
++ https://github.com/pangloss/vim-javascript
++ https://github.com/mxw/vim-jsx
 + https://github.com/jason0x43/vim-js-syntax
 + https://github.com/jelera/vim-javascript-syntax
-+ https://github.com/mxw/vim-jsx
 + https://github.com/othree/yajs.vim
-+ https://github.com/pangloss/vim-javascript
 + https://github.com/tpope/vim-markdown
 + https://github.com/styled-components/vim-styled-components
 
@@ -107,6 +109,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 
 **Tools/Performance**
+
 + https://github.com/skywind3000/asyncrun.vim
 + https://github.com/wakatime/vim-wakatime
 + https://github.com/JamshedVesuna/vim-markdown-preview
@@ -115,6 +118,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 
 **Profiling**
+
 + https://github.com/tweekmonster/startuptime.vim
 
 
