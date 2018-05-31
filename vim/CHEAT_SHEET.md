@@ -19,6 +19,21 @@ W  " move to start of next word, ignore special characters
 e  " move to end of next word
 E  " move to end of next word, ignore special characters
 
+(  " move to previous sentence
+)  " move to next sentence
+{  " move to previous paragraph
+}  " move to next paragraph
+
+]] " move to next sections { in the first column
+][ " move to next sections } in the first column
+[[ " move to previous section { in the first column
+[] " move to previous sections } in the first column
+
+]m " move to next start of method for java structured languages
+[M " move to next end of method for java structured languages
+[m " move to previous start of method for java structured languages
+]M " move to previous end of method for java structured languages
+
 fx " move forward the to next occurence of 'x'
 Fx " move backward the to previous occurence of 'x'
 tx " move forward just before the next occurence of 'x'
