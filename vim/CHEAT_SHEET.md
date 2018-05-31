@@ -57,7 +57,23 @@ G  " move to the bottom of the file
 gg " move to the top of the file
 ```
 
+## Writing
 
+### ASCII, Digraphs, and Special Characters
+
+```bash
+ga             " print ascii value of char under cursor as decimal, hexidecimal, and octal 
+:as or :ascii  " print ascii value of char under cursor as decimal, hexidecimal, and octal 
+
+" Digraphs
+:dig or :digraphs  " list of defined digraphs
+
+" Insert mode
+^v   " prefix before inserting ascii keycode. ctrl-v cH renders ♡
+
+^k   " prefix before inserting a digraph keycode. ctrl-k cH renders ♡
+     " any two numbers will produce a fraction. ctrl-k 12 renders ½
+```
 
 ## Editing
 
@@ -69,6 +85,7 @@ S " substitute line - remove line and change to insert mode
 o " add new line below and change to insert mode
 O " add new line above and change to insert mode
 ```
+
 ## Copy and Paste
 
 ```bash
