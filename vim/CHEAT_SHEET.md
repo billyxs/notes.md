@@ -225,7 +225,8 @@ gi       " move cursor to last and change to insert mode
 :E       " open directory explorer
 :Vex     " open directory in vertical split
 :Sex     " open directory in horizontal split
-:Sex     " open directory in tab
+:Tex     " open directory in tab
+:Rex     " return to and from directory 
 :split   " horizontally split window
 :vsplit  " vertically split window
 
