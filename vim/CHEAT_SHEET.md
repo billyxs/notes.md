@@ -204,8 +204,11 @@ gi       " move cursor to last and change to insert mode
 
 ```bash
 :E       " open directory explorer
-:split   " open directory with horizontal split
-:vsplit  " open directory with vertical split
+:Vex     " open directory in vertical split
+:Sex     " open directory in horizontal split
+:Sex     " open directory in tab
+:split   " horizontally split window
+:vsplit  " vertically split window
 
 r  " refresh directory
 ```
