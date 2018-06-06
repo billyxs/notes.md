@@ -251,6 +251,7 @@ mc " execute copy of file to target
 ```
 :%TOhtml   " create the current file contents as HTML document
 
+" read
 :r! ls     " pull ls output into the vim session
 :r! date   " pull date into the vim session
 
