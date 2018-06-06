@@ -24,10 +24,16 @@ E  " move to end of next word, ignore special characters
 {  " move to previous paragraph
 }  " move to next paragraph
 
+%  " move to opposite brace or bracket the cursor is under
 ]] " move to next sections { in the first column
 ][ " move to next sections } in the first column
 [[ " move to previous section { in the first column
 [] " move to previous sections } in the first column
+
+[{ " move to beginning of code block or previous unmatched {
+]} " move to end of code block or next unmatchd }
+[( " move to beginning of code block or previous unmatched (
+]) " move to end of code block or next unmatchd )
 
 ]m " move to next start of method for java structured languages
 [M " move to next end of method for java structured languages
