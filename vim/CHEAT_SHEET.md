@@ -236,7 +236,14 @@ gi       " move cursor to last and change to insert mode
 :split   " horizontally split window
 :vsplit  " vertically split window
 
-r  " refresh directory
+r  " refresh and reverse sort directory list 
+R  " move file
+D  " delete file
+
+" Copy file, run these commands in order
+mt " mark target folder for copying to
+mf " mark file to copy
+mc " execute copy of file to target
 ```
 
 ## Other
