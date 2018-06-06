@@ -19,7 +19,7 @@
 + [Setting up Vim for React development](https://drivy.engineering/setting-up-vim-for-react/)
 + [Vim Splits - Move Faster and More Naturally](https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally)
 + [Vim search, find and replace in one or multiple files with examples](http://web-techno.net/vim-search/)
-
++ [The power of recursive macros in Vim](https://jovicailic.org/2018/06/recursive-macros-in-vim/)
 
 ## Talks
 
