@@ -2,6 +2,8 @@
 
 ## Articles
 
+- [Manager Guide - by Weekly Update](https://getweeklyupdate.com/manager-guide)
+
 **Managing People Articles**
 
 https://hbr.org/topic/managing-people
