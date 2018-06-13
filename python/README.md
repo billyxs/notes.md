@@ -23,6 +23,7 @@
 + [Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
 + [Write vs Read, Understand and Control Flow](https://mail.python.org/pipermail/python-dev/2018-April/152991.html)
 + [Qt for Python - User interface builder](http://blog.qt.io/blog/2018/04/13/qt-for-python-is-coming-to-a-computer-near-you/)
++ [Introduction to fountain codes: LT codes with python](https://franpapers.com/en/algorithmic/2018-introduction-to-fountain-codes-lt-codes-with-python/)
 
 
 ## Todo
