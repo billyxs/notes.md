@@ -61,6 +61,7 @@ zz " scroll the file to so the current cursor postion is the middle of the windo
 
 G  " move to the bottom of the file
 gg " move to the top of the file
+gi " change to insert mode and move to location you left insert mode
 ```
 
 ## Writing
@@ -142,7 +143,9 @@ o    " toggle cursor to start and end of visual selection
 ```bash
 ^p    " autocomplete word in session
 ^n    " autocomplete word in session
-^x^l  " autocomplete file path if found in your session
+^x^n  " autocomplete many words. repeat commands as needed.
+^x^l  " autocomplete line or file path if found in your session
+
 ```
 
 ## Ex commands
@@ -260,5 +263,6 @@ mc " execute copy of file to target
 fg         " go back to to suspended vim session
 g <Ctrl-g> " show file info based on the cursor position
 ga         " print ascii value of char under cursor in decimal, hexidecimal, octal, and digraph if applicable
+gx         " open url under the cursor in a browser
 
 ```
