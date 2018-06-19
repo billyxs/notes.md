@@ -19,6 +19,11 @@
 - [cmus - terminal media player](https://github.com/cmus/)
 - [ZSH Vi Mode](https://dougblack.io/words/zsh-vi-mode.html)
 
+### Chrome tools
+- [Chrome Developer's Theme](https://chrome.google.com/webstore/detail/developers-theme/ofcdckkfmbdijjfffhmkjejgmjepijio)
+- [DevTools Theme: Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo)
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+
 ## Articles
 
 List of articles of how my we got to our result
