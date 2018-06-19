@@ -170,6 +170,8 @@ j     " join
 \v    " enable all special characters for regex
 \V    " disable special characters and search them literal
 
+:bd *.js then hit <C-a> " autocomplete *.js to match any buffers in the session
+
 ```
 
 ```bash
@@ -261,6 +263,7 @@ mc " execute copy of file to target
 " suspend vim and use terminal
 <Ctrl-z>   " suspend vim session
 fg         " go back to to suspended vim session
+
 g <Ctrl-g> " show file info based on the cursor position
 ga         " print ascii value of char under cursor in decimal, hexidecimal, octal, and digraph if applicable
 gx         " open url under the cursor in a browser
