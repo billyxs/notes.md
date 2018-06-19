@@ -2,6 +2,14 @@
 
 - [Git extras - commands](https://github.com/tj/git-extras/blob/master/Commands.md)
 - [A monorepo, GitHub flow and automation](https://hackernoon.com/a-monorepo-github-flow-and-automation-ftw-c41a2d9c48bb)
+- [](https://whatthecommit.com/)
+
+
+## Gitflow
+
+- [Gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [A guide to improve the github flow a and commits messages](https://medium.com/@roalcantara/a-guide-to-improve-the-git-hub-flow-and-commits-messages-b495461e1115)
+
 
 ## Commits and collaboration
 
@@ -63,10 +71,8 @@ https://medium.com/collaborne-engineering/how-to-migrate-a-private-repository-fr
 
 # Videos
 
-[200~### Git version control
+### Git version control
 
-+ [Get Together with Git
-(workshop)](https://teamtreehouse.com/library/get-together-with-git)
-+ [Everything I Wish I Knew When I Started Using
-Github](https://youtu.be/KDUtjZHIx44)
++ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
++ [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
 
