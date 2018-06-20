@@ -268,4 +268,6 @@ g <Ctrl-g> " show file info based on the cursor position
 ga         " print ascii value of char under cursor in decimal, hexidecimal, octal, and digraph if applicable
 gx         " open url under the cursor in a browser
 
+:%!python -m json.tool " format JSON
+
 ```
