@@ -1,5 +1,9 @@
 # Tech
 
+## Apple / OSX
+
+- [The decline of the macbook pro](https://www.dannyguo.com/blog/the-decline-of-the-macbook-pro/)
+
 ## Tools
 
 + [Elementary OS](https://elementary.io/)
