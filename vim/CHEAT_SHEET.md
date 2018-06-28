@@ -148,6 +148,18 @@ o    " toggle cursor to start and end of visual selection
 
 ```
 
+## Macros
+
+```bash
+qa   " record a macro to register "a". hit "q" to quit recording
+@a   " run macro from register a.
+@@   " repeat the last macro.
+qaq  " clear macro "a".
+
+:reg    " see register list of macros
+:reg ah " see registers "a" and "h" 
+```
+
 ## Ex commands
 
 ```bash
