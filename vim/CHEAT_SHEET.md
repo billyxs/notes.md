@@ -62,6 +62,10 @@ zz " scroll the file to so the current cursor postion is the middle of the windo
 G  " move to the bottom of the file
 gg " move to the top of the file
 gi " change to insert mode and move to location you left insert mode
+
+" Insert Mode
+<Ctrl-g>j  " move down one line
+
 ```
 
 ## Writing
@@ -108,6 +112,9 @@ p  " paste text after cusor
 P  " paste text before cusor
 gp " paste after cursor and put cursor at end of new text
 gP " paste after cursor and put cursor at end of new text
+
+" Insert Mode
+<Ctrl-r>0 " paste the contents of register zero, which is the last copied item
 ```
 
 ## Format Text
@@ -282,4 +289,5 @@ gx         " open url under the cursor in a browser
 
 :%!python -m json.tool " format JSON
 
+:smile " brighten your day
 ```
