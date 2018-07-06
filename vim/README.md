@@ -20,6 +20,10 @@
 + [Vim Splits - Move Faster and More Naturally](https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally)
 + [Vim search, find and replace in one or multiple files with examples](http://web-techno.net/vim-search/)
 + [The power of recursive macros in Vim](https://jovicailic.org/2018/06/recursive-macros-in-vim/)
++ [VIM AFTER 11 YEARS](https://statico.github.io/vim.html)
++ [EVERYTHING I MISSED IN "VIM AFTER 11 YEARS"](https://statico.github.io/vim2.html)
++ [Some lesser-known vim tips from 8 years of use](https://tomjwatson.com/blog/vim-tips/)
+
 
 ## Talks
 
