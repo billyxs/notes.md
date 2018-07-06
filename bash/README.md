@@ -87,3 +87,27 @@ $ Replace: Goodbye
 
 ## rm
 - [Unraveling `rm`: What happens when you run it](https://blog.safia.rocks/post/173241985600/unraveling-rm-what-happens-when-you-run-it)
+
+
+## tee
+
+Split output to file and terminal.
+
+https://www.youtube.com/watch?time_continue=357
+
+```bash
+# write to log
+date | tee my.log
+
+# append to log 
+date | tee -a my.log
+```
+
+## uname
+
+Get system information
+
+https://www.youtube.com/watch?time_continue=181&v=l0QGLMwR-lY
+
+- Kernal version
+- Host name
