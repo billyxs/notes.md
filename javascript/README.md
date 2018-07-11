@@ -11,6 +11,7 @@ https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
 
 ## Async
 - [JavaScript Async/Await: Serial, Parallel and Complex Flow](https://techbrij.com/javascript-async-await-parallel-sequence)
+- [JavaScript loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 
 
 ### Master the Javascript Interview: What is functional programming
