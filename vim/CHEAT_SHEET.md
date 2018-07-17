@@ -84,6 +84,10 @@ ga             " print ascii value of char under cursor as decimal, hexidecimal,
 
 ^k   " prefix before inserting a digraph keycode. ctrl-k cH renders ♡
      " any two numbers will produce a fraction. ctrl-k 12 renders ½
+
+^r   " insert mode paste - ^r" will paste the last register
+     " ^r" will paste the contenst of the last register
+     " ^ra will paste the contents of register "a"
 ```
 
 ## Editing
