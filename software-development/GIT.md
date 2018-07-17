@@ -20,6 +20,19 @@
 - [4 rules for effective collaboration](https://github.com/salemove/github-review-helper/blob/master/doc/rules.md#four-rules-for-effective-collaboration)
 - [On commit messages](http://who-t.blogspot.com.ee/2009/12/on-commit-messages.html)
 
+## Migrate from one repo to another
+
+https://medium.com/collaborne-engineering/how-to-migrate-a-private-repository-from-bitbucket-to-github-6cddedd5d73
+
+# Videos
+
+### Git version control
+
++ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
++ [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
+
+
+# Git Commands
 
 ## Git Diff
 
@@ -64,15 +77,4 @@ To make git log nicer by default, I typically set these global preferences:
 git config --global log.decorate true
 git config --global log.abbrevCommit true
 ```
-
-## Migrate from one repo to another
-
-https://medium.com/collaborne-engineering/how-to-migrate-a-private-repository-from-bitbucket-to-github-6cddedd5d73
-
-# Videos
-
-### Git version control
-
-+ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
-+ [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
 
