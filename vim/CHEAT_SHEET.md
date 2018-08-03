@@ -1,6 +1,7 @@
 # Vim Cheat Sheet
 
 **Legend**
+
 `^` Control key
 
 
