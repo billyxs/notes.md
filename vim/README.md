@@ -64,69 +64,74 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 **Directory**
 
-+ https://github.com/justinmk/vim-dirvish
-+ https://github.com/jeetsukumaran/vim-filebeagle
-+ https://github.com/tpope/vim-vinegar
+- https://github.com/justinmk/vim-dirvish
+- https://github.com/jeetsukumaran/vim-filebeagle
+- https://github.com/tpope/vim-vinegar
 
 
 **Git**
 
-+ https://github.com/airblade/vim-gitgutter
-+ https://github.com/tpope/vim-fugitive
+- https://github.com/airblade/vim-gitgutter
+- https://github.com/tpope/vim-fugitive
 
 
 **Lint**
 
-+ https://github.com/w0rp/ale
+- https://github.com/w0rp/ale
+
+**Formatting**
+
+- https://github.com/dhruvasagar/vim-table-mode/blob/master/README.md
 
 
 **Syntax**
 
-+ https://github.com/pangloss/vim-javascript
-+ https://github.com/mxw/vim-jsx
-+ https://github.com/jason0x43/vim-js-syntax
-+ https://github.com/jelera/vim-javascript-syntax
-+ https://github.com/othree/yajs.vim
-+ https://github.com/tpope/vim-markdown
-+ https://github.com/styled-components/vim-styled-components
+- https://github.com/pangloss/vim-javascript
+- https://github.com/mxw/vim-jsx
+- https://github.com/jason0x43/vim-js-syntax
+- https://github.com/jelera/vim-javascript-syntax
+- https://github.com/othree/yajs.vim
+- https://github.com/tpope/vim-markdown
+- https://github.com/styled-components/vim-styled-components
 
 
 **Search**
-+ https://github.com/junegunn/fzf.vim
+
+- https://github.com/junegunn/fzf.vim
 
 
 **Themes**
 
-+ https://github.com/Alvarocz/vim-fresh
-+ https://github.com/ajh17/Spacegray.vim
-+ https://github.com/chriskempson/base16-vim
-+ https://github.com/flazz/vim-colorschemes
-+ https://github.com/larsbs/vimterial_dark
-+ https://github.com/lifepillar/vim-solarized8
-+ https://github.com/martinlindhe/base16-iterm2
-+ https://github.com/mhartington/oceanic-next
-+ https://github.com/nightsense/seabird
-+ https://github.com/rainglow/vim
-+ https://github.com/rakr/vim-one
-+ https://github.com/tomasiser/vim-code-dark
-+ https://github.com/widatama/vim-phoenix
-+ https://github.com/wimstefan/vim-artesanal
+- https://github.com/Alvarocz/vim-fresh
+- https://github.com/ajh17/Spacegray.vim
+- https://github.com/chriskempson/base16-vim
+- https://github.com/flazz/vim-colorschemes
+- https://github.com/larsbs/vimterial_dark
+- https://github.com/lifepillar/vim-solarized8
+- https://github.com/martinlindhe/base16-iterm2
+- https://github.com/mhartington/oceanic-next
+- https://github.com/nightsense/seabird
+- https://github.com/rainglow/vim
+- https://github.com/rakr/vim-one
+- https://github.com/tomasiser/vim-code-dark
+- https://github.com/widatama/vim-phoenix
+- https://github.com/wimstefan/vim-artesanal
 
 
 **Tools/Performance**
 
-+ https://github.com/skywind3000/asyncrun.vim
-+ https://github.com/wakatime/vim-wakatime
-+ https://github.com/JamshedVesuna/vim-markdown-preview
-+ https://github.com/tpope/vim-dispatch
-+ https://github.com/machakann/vim-highlightedyank
+- https://github.com/skywind3000/asyncrun.vim
+- https://github.com/wakatime/vim-wakatime
+- https://github.com/JamshedVesuna/vim-markdown-preview
+- https://github.com/tpope/vim-dispatch
+- https://github.com/machakann/vim-highlightedyank
 
 
 **Profiling**
 
-+ https://github.com/tweekmonster/startuptime.vim
+- https://github.com/tweekmonster/startuptime.vim
 
 
 **Windows**
 
-+ https://github.com/wesQ3/vim-windowswap
+- https://github.com/wesQ3/vim-windowswap
