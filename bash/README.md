@@ -111,3 +111,12 @@ https://www.youtube.com/watch?time_continue=181&v=l0QGLMwR-lY
 
 - Kernal version
 - Host name
+
+## watch
+
+Execute a program periodically, showing ouput in full screen.
+
+This example does something every 10 seconds.
+```bash
+watch -n 10 doSomething.sh
+```
