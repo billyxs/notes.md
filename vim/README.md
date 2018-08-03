@@ -81,7 +81,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 
 **Formatting**
 
-- https://github.com/dhruvasagar/vim-table-mode/blob/master/README.md
+- https://github.com/dhruvasagar/vim-table-mode
 
 
 **Syntax**
