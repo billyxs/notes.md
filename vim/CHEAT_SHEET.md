@@ -295,4 +295,6 @@ gx         " open url under the cursor in a browser
 :%!python -m json.tool " format JSON
 
 :smile " brighten your day
+:h 42  " meaning of life?
+:h |   " Ceci n'est pas une pipe.  https://en.m.wikipedia.org/wiki/The_Treachery_of_Images
 ```
