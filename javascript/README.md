@@ -1,7 +1,7 @@
 # Javascript
 
 ## New web features
-https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
+- https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
 
 
 ## Functional Programming
@@ -19,19 +19,23 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 
 > Functional programming is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions.
 
-* Pure functions
-* Function composition
-* Avoid shared state
-* Avoid mutating state
-* Avoid side effects
+- Pure functions
+- Function composition
+- Avoid shared state
+- Avoid mutating state
+- Avoid side effects
 
 > A pure function is a function which:
-* Given the same inputs, always returns the same output, and
-* Has no side-effects
+- Given the same inputs, always returns the same output, and
+- Has no side-effects
+
+## Coding practices
+
+- [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 
 
 ## Node / V8 Engine
-[https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e]
+- [https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e]
 
 
 ### Debugging
@@ -49,11 +53,11 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 
 
 ## Building Command Line Tools
-[https://developer.atlassian.com/blog/2015/11/scripting-with-node/]
+- [https://developer.atlassian.com/blog/2015/11/scripting-with-node/]
 
 
 ## R core javascript implementation
-[https://github.com/jacobbogers/libRmath.js]
+- [https://github.com/jacobbogers/libRmath.js]
 
 
 ## Learn Javascript
