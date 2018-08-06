@@ -9,12 +9,6 @@
 ## FM-Index
 [https://en.wikipedia.org/wiki/FM-index]
 
-
-## Monads
-
-+ [Learning Monads by Example](https://diego.codes/post/learning-monads/)
-
-
 ## Articles
 
 + [S-Expressions](https://people.csail.mit.edu/rivest/Sexp.txt)
