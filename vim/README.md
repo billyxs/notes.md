@@ -4,6 +4,8 @@
 
 [My vim cheat sheet as found through my journey](https://github.com/billyxs/notes.md/blob/master/vim/CHEAT_SHEET.md)
 
+## Vim
+- [Where Vim came from](https://twobithistory.org/2018/08/05/where-vim-came-from.html) 
 
 ## Articles
 
