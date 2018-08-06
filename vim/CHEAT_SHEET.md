@@ -4,6 +4,15 @@
 
 `^` Control key
 
+## Insert mode commands
+
+```bash
+Ctrl-[ " <ESC>
+Ctrl-h " backspace
+Ctrl-i " tab
+Ctrl-j " newline
+Ctrl-m " carriage return
+```
 
 ## Motions
 
@@ -196,6 +205,11 @@ j     " join
 
 :bd *.js then hit <C-a> " autocomplete *.js to match any buffers in the session
 
+" View mappings
+:verbose map " view all mappings verbosely
+:map  " view all mappings
+:imap " view all insert mode mappings
+:vmap " view all visual mode mappings
 ```
 
 ```bash
@@ -277,7 +291,7 @@ mc " execute copy of file to target
 
 ## Other
 
-```
+```bash
 :%TOhtml   " create the current file contents as HTML document
 
 " read

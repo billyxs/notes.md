@@ -23,6 +23,7 @@
 + [VIM AFTER 11 YEARS](https://statico.github.io/vim.html)
 + [EVERYTHING I MISSED IN "VIM AFTER 11 YEARS"](https://statico.github.io/vim2.html)
 + [Some lesser-known vim tips from 8 years of use](https://tomjwatson.com/blog/vim-tips/)
++ [Ctrl-[ for ESC](https://www.reddit.com/r/vim/comments/94ao9t/mrw_i_discovered_you_can_use_ctrl_instead_of_esc/)
 
 
 ## Talks
