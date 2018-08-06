@@ -7,51 +7,54 @@
 
 ## Articles
 
-+ [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
-+ [Good reasources for learning Vim](https://www.quora.com/What-are-some-good-resources-for-learning-Vim)
-+ [Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-+ [Use Vim](https://antjanus.com/blog/thoughts-and-opinions/use-vim/)
-+ [Using argdo to change multiple files](http://vimcasts.org/episodes/using-argdo-to-change-multiple-files/)
-+ [Advanced Vim Tutorial](http://tebrik.kampanya.org.tr/Linux/Books/advanced_vim_tutorial.pdf)
-+ [Vim for Frontend Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers)
-+ [5 Plugins I can't live without](https://hackernoon.com/5-vim-plugins-i-cant-live-without-for-javascript-development-f7e98f98e8d5)
-+ [Simplifying regular expressions using magic and no-magic](http://vim.wikia.com/wiki/Simplifying_regular_expressions_using_magic_and_no-magic)
-+ [Setting up Vim for React development](https://drivy.engineering/setting-up-vim-for-react/)
-+ [Vim Splits - Move Faster and More Naturally](https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally)
-+ [Vim search, find and replace in one or multiple files with examples](http://web-techno.net/vim-search/)
-+ [The power of recursive macros in Vim](https://jovicailic.org/2018/06/recursive-macros-in-vim/)
-+ [VIM AFTER 11 YEARS](https://statico.github.io/vim.html)
-+ [EVERYTHING I MISSED IN "VIM AFTER 11 YEARS"](https://statico.github.io/vim2.html)
-+ [Some lesser-known vim tips from 8 years of use](https://tomjwatson.com/blog/vim-tips/)
-+ [Ctrl-[ for ESC](https://www.reddit.com/r/vim/comments/94ao9t/mrw_i_discovered_you_can_use_ctrl_instead_of_esc/)
+- [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
+- [Good reasources for learning Vim](https://www.quora.com/What-are-some-good-resources-for-learning-Vim)
+- [Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [Use Vim](https://antjanus.com/blog/thoughts-and-opinions/use-vim/)
+- [Using argdo to change multiple files](http://vimcasts.org/episodes/using-argdo-to-change-multiple-files/)
+- [Advanced Vim Tutorial](http://tebrik.kampanya.org.tr/Linux/Books/advanced_vim_tutorial.pdf)
+- [Vim for Frontend Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers)
+- [5 Plugins I can't live without](https://hackernoon.com/5-vim-plugins-i-cant-live-without-for-javascript-development-f7e98f98e8d5)
+- [Simplifying regular expressions using magic and no-magic](http://vim.wikia.com/wiki/Simplifying_regular_expressions_using_magic_and_no-magic)
+- [Setting up Vim for React development](https://drivy.engineering/setting-up-vim-for-react/)
+- [Vim Splits - Move Faster and More Naturally](https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally)
+- [Vim search, find and replace in one or multiple files with examples](http://web-techno.net/vim-search/)
+- [The power of recursive macros in Vim](https://jovicailic.org/2018/06/recursive-macros-in-vim/)
+- [VIM AFTER 11 YEARS](https://statico.github.io/vim.html)
+- [EVERYTHING I MISSED IN "VIM AFTER 11 YEARS"](https://statico.github.io/vim2.html)
+- [Some lesser-known vim tips from 8 years of use](https://tomjwatson.com/blog/vim-tips/)
+- [Ctrl-[ for ESC](https://www.reddit.com/r/vim/comments/94ao9t/mrw_i_discovered_you_can_use_ctrl_instead_of_esc/)
+
+### EX mode
+- [Using more of EX](https://sanctum.geek.nz/arabesque/using-more-of-ex/) 
 
 
 ## Talks
 
-+ [Learning Vim in a week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
-+ [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
-+ [Impressive Ruby Productivity with Vim and Tmux](http://youtu.be/9jzWDr24UHQ)
-+ [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
-+ [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
-+ [Vim + Tmux](https://youtu.be/5r6yzFEXajQ)
+- [Learning Vim in a week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
+- [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
+- [Impressive Ruby Productivity with Vim and Tmux](http://youtu.be/9jzWDr24UHQ)
+- [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
+- [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
+- [Vim + Tmux](https://youtu.be/5r6yzFEXajQ)
 
 # Tips and Tricks
 
-+ [Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
+- [Configuring Vim Right](http://items.sjbach.com/319/configuring-vim-right)
 
 
 ## Key Mappings
 
-+ [Vi Master By Learning These 30 Key Bindings](https://www.howtogeek.com/115051/become-a-vi-master-by-learning-these-30-key-bindings/)
-+ [Key mapping best practices](https://vi.stackexchange.com/questions/6916/key-mapping-best-practices)
-+ [8 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
-+ [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
-+ [What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
+- [Vi Master By Learning These 30 Key Bindings](https://www.howtogeek.com/115051/become-a-vi-master-by-learning-these-30-key-bindings/)
+- [Key mapping best practices](https://vi.stackexchange.com/questions/6916/key-mapping-best-practices)
+- [8 Great Vim Mappings](https://hashrocket.com/blog/posts/8-great-vim-mappings)
+- [What is your most productive shortcut](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
+- [What Are The Dark Corners of Vim Your Mom Never Told You About](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
 
 
 ## Startup profiling
 
-[Vim screencast #44: Profiling and optimization](https://www.youtube.com/watch?v=wQ9uB8I0cCg)
+- [Vim screencast #44: Profiling and optimization](https://www.youtube.com/watch?v=wQ9uB8I0cCg)
 
 ```bash
 " verbose output
