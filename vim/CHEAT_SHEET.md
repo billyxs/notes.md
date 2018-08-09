@@ -292,6 +292,10 @@ mc " execute copy of file to target
 ## Other
 
 ```bash
+:terminal  " open a terminal window. :term works as well.
+:vert term " open a terminal window vertically
+ggg?G      " obscure text with rot13 encoding. Undo with 'u'
+
 :%TOhtml   " create the current file contents as HTML document
 
 " read
