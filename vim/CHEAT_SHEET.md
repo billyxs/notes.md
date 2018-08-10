@@ -177,6 +177,12 @@ qa   " record a macro to register "a". hit "q" to quit recording
 @@   " repeat the last macro.
 qaq  " clear macro "a".
 
+:1,10norm! @a       " run macro on lines 1 - 10 
+:5,$norm! @a        " run macro from line 5 to end of file
+:%norm! @a          " run macro on all lines
+:'<,'>norm! @a      " run macro on all lines of selected range 
+:g/pattern/norm! @a " run macro on all matching patterns,
+
 :reg    " see register list of macros
 :reg ah " see registers "a" and "h" 
 ```
