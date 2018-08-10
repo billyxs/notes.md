@@ -18,6 +18,7 @@
 - [Weather - wttr.in](https://github.com/chubin/wttr.in)
 - [cmus - terminal media player](https://github.com/cmus/)
 - [ZSH Vi Mode](https://dougblack.io/words/zsh-vi-mode.html)
+- [Lazy GIT - CLI](https://github.com/jesseduffield/lazygit)
 
 ### Chrome tools
 - [Chrome Developer's Theme](https://chrome.google.com/webstore/detail/developers-theme/ofcdckkfmbdijjfffhmkjejgmjepijio)
