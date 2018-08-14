@@ -13,3 +13,6 @@
 
 + [Postlight - Our Mission, Our Values](https://trackchanges.postlight.com/postlight-our-mission-our-values-e5f54a1db72d)
 + [Four Pillars of Better Management](https://www.bettermanager.us/four-pillars-better-management-1-self/)
+
+- [Netflix culture](https://jobs.netflix.com/culture)
+- [Amazon culture](http://www.amazondelivers.jobs/about/culture/)
