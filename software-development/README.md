@@ -5,6 +5,8 @@
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [CI/CD Is Not A Progression](https://hackernoon.com/ci-cd-is-not-a-progression-86ebc896571b)
 + [Exercises in Programming Style](https://henrikwarne.com/2018/03/13/exercises-in-programming-style/)
+- [10 basic programming principles every programmer must follow](https://www.makeuseof.com/tag/basic-programming-principles/)
+- [On being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 
 
 ## Continuous Delivery
