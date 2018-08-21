@@ -57,6 +57,7 @@ Tx " move backward just before the previous occurence of 'x'
 
 0  " move to the beginning of the line
 $  " move to the end of the line
+g_ " move to the end of the line
 ^  " move to the first non-whitespace character on the line
 _  " move to the first non-whitespace character on the line
 
@@ -109,6 +110,8 @@ s " substitute char - remove character and change to insert mode
 S " substitute line - remove line and change to insert mode
 o " add new line below and change to insert mode
 O " add new line above and change to insert mode
+
+80i= " insert 80 equal signs
 ```
 
 ## Copy and Paste
