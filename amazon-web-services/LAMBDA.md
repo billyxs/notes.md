@@ -12,6 +12,7 @@ Thoughts and details of using AWS Lambda
 ## Severless
 
 - [Split stacks](https://github.com/dougmoscrop/serverless-plugin-split-stacks)
+- [Serverless API Gateway Custom Domain](https://serverless.com/blog/serverless-api-gateway-domain/)
 
 A plugin to generate nested stacks to get around the 200 resource CloudFormation limit
 
