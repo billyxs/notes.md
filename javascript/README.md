@@ -32,6 +32,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 ## Coding practices
 
 - [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
+- [Github - Clean code javascript README](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
 ## Node / V8 Engine

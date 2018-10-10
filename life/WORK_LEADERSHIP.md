@@ -10,6 +10,26 @@ https://hbr.org/topic/managing-people
 
 - [Zapier CTO: Working with Remote Engineers](https://youteam.io/blog/interview-with-bryan-cto-and-co-founder-of-zapier-on-working-with-remote-engineers/)
 
+## One on one
+
+- Goals
+  - Keep track of a the employee's performance and if they are meeting their targets and goals
+  - Discuss any problems or issues that are hindering the employee from achieving their goals
+  - Conduct coaching and provide feedback
+
+
+- [One one one meeting template](https://status.net/templates/one-on-one-meeting-template/) 
+  - The value of the meetings lies in the fact that they present an opportunity for the supervisor and the employee to communicate on a personal level. This increases the employee's feeling of involvement and allows them to feel more confident in performing their job.
+  - Meeting intervals should be no longer than two weeks. No longer than one month should elapse between meetings.
+  - Meeting shouldn't take longer than 30 min, nor take an excessive amount of the employee or supervisor's time.
+  - Stick to a schedule. The meeting should not feel dispensible.
+  - Supervisor should not dominate the discussion.
+  - Encourage the employee to raise issues.
+  - Document everything discussed during the meeting.
+  - The supervisor should give his full, uninterrupted attention during the meeeting
+
+
+
 ## Amazon's 12 Leadership Principles
 https://www.amazon.jobs/principles
 

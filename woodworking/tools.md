@@ -1,5 +1,10 @@
 # Tools
 
+## General 
+
+- [5 Must-Have Woodworking Tools For Beginners DIY](https://www.youtube.com/watch?v=o4ijHIRaGXc&t=28s)
+
+
 ## Table saw
 
 [Best portable job site table saw - Head 2 head](https://www.youtube.com/watch?v=5oi5BTKl2hY)

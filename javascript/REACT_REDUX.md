@@ -12,6 +12,8 @@
 - [Tranform SVG into React components](https://github.com/smooth-code/svgr)
 - [Why Arrow Functions and bind in React’s Render are Problematic](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36)
 
+- [Why Reason React is the best way to write React](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)
+
 ### HOCs and RenderProps
 - [Upgrade your react.js hoc with renderProps](https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/)
 - [I’m Breaking up with Higher Order Components.](https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052)

@@ -45,6 +45,21 @@ CREATE DATABASE databasename; - create db
 
 GRANT ALL PRIVILEGES ON DATABASE super_awesome_application TO username; - give all permissions
 
+CREATE TABLE TableName {
+  TableColumnTitle DATA_TYPE constraints,
+  table_constraint
+  table_constraint
+} INHERITS ExistingTableToInheritFrom
+
+CREATE TABLE account(
+ user_id serial PRIMARY KEY,
+ username VARCHAR (50) UNIQUE NOT NULL,
+ password VARCHAR (50) NOT NULL,
+ email VARCHAR (355) UNIQUE NOT NULL,
+ created_on TIMESTAMP NOT NULL,
+ last_login TIMESTAMP
+);
+
 \du - view users
 
 \q - quit cli
