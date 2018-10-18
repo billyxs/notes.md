@@ -11,9 +11,12 @@
 
 ## Articles
 
-+ [S-Expressions](https://people.csail.mit.edu/rivest/Sexp.txt)
+- [S-Expressions](https://people.csail.mit.edu/rivest/Sexp.txt)
 
+## Testing
+
+- [Mocking is a code smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 ## Todo
 
-+ [Lisp](www.defmacro.org/ramblings/lisp.html)
+- [Lisp](www.defmacro.org/ramblings/lisp.html)
