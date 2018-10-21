@@ -26,6 +26,9 @@
 - [EVERYTHING I MISSED IN "VIM AFTER 11 YEARS"](https://statico.github.io/vim2.html)
 - [Some lesser-known vim tips from 8 years of use](https://tomjwatson.com/blog/vim-tips/)
 - [Ctrl-[ for ESC](https://www.reddit.com/r/vim/comments/94ao9t/mrw_i_discovered_you_can_use_ctrl_instead_of_esc/)
+- Vim ALE Python linting
+  - http://liuchengxu.org/posts/use-vim-as-a-python-ide/
+  - https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2
 
 ### EX mode
 - [Using more of EX](https://sanctum.geek.nz/arabesque/using-more-of-ex/) 
@@ -99,6 +102,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 - https://github.com/othree/yajs.vim
 - https://github.com/tpope/vim-markdown
 - https://github.com/styled-components/vim-styled-components
+- https://github.com/python-mode/python-mode
 
 
 **Search**
