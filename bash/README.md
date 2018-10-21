@@ -1,5 +1,14 @@
 # Bash
 
+## link and unlink
+
+Unlink current python link to use python3
+
+```bash
+unlink /usr/local/bin/python
+ln -s /usr/local/bin/python3.7 /usr/local/bin/python
+```
+
 ## awk
 
 + [Write AWK Commands and Scripts](https://www.lifewire.com/write-awk-commands-and-scripts-2200573)
