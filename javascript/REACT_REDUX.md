@@ -13,6 +13,7 @@
 - [Why Arrow Functions and bind in React’s Render are Problematic](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36)
 
 - [Why Reason React is the best way to write React](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)
+- [9 React Styled-Components UI Libraries for 2018](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
 
 ### HOCs and RenderProps
 - [Upgrade your react.js hoc with renderProps](https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/)
