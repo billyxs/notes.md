@@ -8,6 +8,11 @@
 + [DeepLearning.AI](https://www.deeplearning.ai/)
 + [fast.ai](http://www.fast.ai/)
 
+## Sports predictions
+
+- [How to- reate your own machine learning predictive system in the nba using python](https://hackernoon.com/how-to-create-your-own-machine-learning-predictive-system-in-the-nba-using-python-7189d964a371)
+- [Basketball reference crawler - github](https://github.com/FranGoitia/basketball_reference)
+
 ## Tools
 
 + [Floydhub](https://www.floydhub.com/)
