@@ -2,24 +2,25 @@
 
 ## Funny
 
-+ [An employee whose job was to be sacked](https://henrytapper.com/2010/01/09/an-employee-whose-job-was-to-be-sacked/)
+- [An employee whose job was to be sacked](https://henrytapper.com/2010/01/09/an-employee-whose-job-was-to-be-sacked/)
+- [When you are overqualified for the job - drums](https://www.youtube.com/watch?v=YSjsNzffUGQ&feature=youtu.be)
 
 
 ## Design
 
-+ [Beyond Biohazard: Why Danger Symbols Can't Last Forever](https://99percentinvisible.org/article/beyond-biohazard-danger-symbols-cant-last-forever/)
+- [Beyond Biohazard: Why Danger Symbols Can't Last Forever](https://99percentinvisible.org/article/beyond-biohazard-danger-symbols-cant-last-forever/)
 
 
 ## Science
 
-+ [Weaver weaves a spider tapestry of your favorite image.](https://github.com/glouw/weaver)
-+ [Infinity Puzzle](https://n-e-r-v-o-u-s.com/blog/?p=7613)
+- [Weaver weaves a spider tapestry of your favorite image.](https://github.com/glouw/weaver)
+- [Infinity Puzzle](https://n-e-r-v-o-u-s.com/blog/?p=7613)
 
 
 ### History
 
-+ [Beverly Clock](https://en.m.wikipedia.org/wiki/Beverly_Clock)
-+ [Prince Rupert's Cube](https://en.m.wikipedia.org/wiki/Prince_Rupert%27s_cube)
+- [Beverly Clock](https://en.m.wikipedia.org/wiki/Beverly_Clock)
+- [Prince Rupert's Cube](https://en.m.wikipedia.org/wiki/Prince_Rupert%27s_cube)
 
 
 ### Elmore Leonard's Rules For Writers
@@ -40,6 +41,6 @@ _My most rule - if it sounds like writing, I rewrite it_
 
 ## Todo
 
-+ [Mark Cuban - Philosophy May Soon Be Worth More Than Computer Science](https://www.cnbc.com/2018/02/20/mark-cuban-philosophy-degree-will-be-worth-more-than-computer-science.html)
-+ [Physics Makes Aging Inevitable, Not Biology](http://nautil.us/issue/36/aging/physics-makes-aging-inevitable-not-biology)
-+ [Methods for Studying Coincidences](http://www.math.uchicago.edu/~fcale/CCC/DC.pdf)
+- [Mark Cuban - Philosophy May Soon Be Worth More Than Computer Science](https://www.cnbc.com/2018/02/20/mark-cuban-philosophy-degree-will-be-worth-more-than-computer-science.html)
+- [Physics Makes Aging Inevitable, Not Biology](http://nautil.us/issue/36/aging/physics-makes-aging-inevitable-not-biology)
+- [Methods for Studying Coincidences](http://www.math.uchicago.edu/~fcale/CCC/DC.pdf)
