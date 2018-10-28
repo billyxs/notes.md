@@ -145,3 +145,7 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 **Windows**
 
 - https://github.com/wesQ3/vim-windowswap
+
+**Other**
+
+- https://github.com/vim-utils/vim-man
