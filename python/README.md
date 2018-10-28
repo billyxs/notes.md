@@ -11,6 +11,7 @@
   - https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2
 - https://medium.com/@happymishra66/lambda-map-and-filter-in-python-4935f248593
 - https://www.pythonforbeginners.com/dictionary/how-to-use-dictionaries-in-python/
+- [Asterisks in Python: what they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 
 ## Setup
 
