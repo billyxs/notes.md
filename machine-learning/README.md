@@ -11,6 +11,9 @@
 - [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [DeepLearning.AI](https://www.deeplearning.ai/)
 - [fast.ai](http://www.fast.ai/)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+- [Machine learning and reinforcement learning in finance specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 
 ## Sports predictions
 

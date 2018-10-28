@@ -1,6 +1,103 @@
 # Journey
 
+## Todo
+
 - [Todo](https://trello.com/b/ulaABo7d/machine-learning)
+- [Curriculum](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+- [Reddit ML](http://reddit.com/r/machinelearning)
+- [Hacker news](https://news.ycombinator.com/)
+
+### 2018-10-27
+ 
+- [Linear Algebra - PatrickJMT](https://www.youtube.com/watch?v=ivP-6oicIWU&list=PLAFEC355DFEADC30C)
+- [Bach AI](https://github.com/robbiebarrat/Bach_AI)
+- [Future of Statistical Programming](http://www.science.smith.edu/~amcnamara/FoSP.html)
+- [Sentiment Analysis: nearly everything you need to know](https://monkeylearn.com/sentiment-analysis/)
+
+### 2018-10-26
+
+- [Asterisks in Python: what they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
+
+### 2018-10-25
+
+- [Uber's big data platform](https://eng.uber.com/uber-big-data-platform/)
+
+### 2018-10-24
+
+- [Tensorflow in 5 minutes - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU)
+
+### 2018-10-23
+
+- [Python in 90 Minutes](https://www.youtube.com/watch?v=CCz5umwMTTE)
+  - [Github](https://github.com/joeyajames/Python/tree/master/Python%20in%2090%20minutes)
+- [Differences Between AI and Machine Learning and Why it Matters](https://medium.com/datadriveninvestor/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6)
+- [Learn Machine Learning in 3 Months (with curriculum)](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
+  - [Curriculum](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+  - Machine learning prerequisites
+    - 35% Linear algebra
+    - 25% Probability theory and statistics
+    - 15% Calculus
+    - 15% Algorithms and complexity
+    - 10% Data preprocessing knowledge 
+  - Month 1 - Math
+    - Consume latest news
+      - [Reddit ML](http://reddit.com/r/machinelearning)
+      - [Hacker news](https://news.ycombinator.com/)
+      - Twitter
+        - Ilya Sutskever
+        - Trent Monconaghy
+        - Andrej Karpathy
+        - Andrew Trask
+        - Pieter Abeel
+        - Chris Olah
+        - Nando De Freitas
+      - Learn the math
+        - [Linear Algebra MIT Course by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+          - [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c&index=2&list=PL221E2BBF13BECF6C)
+        - [Essence of Calculus - 3 blue 1 brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+        - [Introduction to Probability - The Science of Uncertainty - edX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+        - [Algorithm Design and Analysis - edX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+        - Cheat sheets for the above
+          - https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
+          - http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf
+          - https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
+          - https://algs4.cs.princeton.edu/cheatsheet
+  - Month 2 - Machine Learning
+    - [Learn python for datascience - Siraj Raval](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+    - [The math of intelligence - Siraj Raval](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+    - [Intro to Tensorflow - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+    - [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - [Project ideas](https://github.com/NirantK/awesome-project-ideas)
+    - Participate in Kaggle competition
+    - Do two projects a week to learn
+      - Optimization
+      - Data pre processing
+      - Types of learning
+      - Dataset splitting
+      - Model Evaluations
+    - Build the gradient descent algorithm
+  - Month 3 - Deep Learning
+    - Learning
+      - [Intro to Deep Learning - Siraj Raval](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+      - [Deep learning course - fast.ai](http://course.fast.ai/)
+    - Make deep learning app after app
+   
+
+
+### 2018-10-22
+
+Cost function, linear regression, gradient decent, and normal functions
+
+- [Linear Regression](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+- [Predicting the Winning Team with Machine Learning](https://www.youtube.com/watch?v=6tQhoUuQrOw)
+
+Pandas data structures and conda package manager
+
+- Python
+  - [Pandas](https://pandas.pydata.org/)
+  - [Conda](https://conda.io/docs/)
+  - [Why you need Python environments and how to manage them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
+
 
 ### 2018-10-21
 
