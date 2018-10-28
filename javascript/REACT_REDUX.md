@@ -19,6 +19,7 @@
 - [Upgrade your react.js hoc with renderProps](https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/)
 - [I’m Breaking up with Higher Order Components.](https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052)
 - [Solving the problems of Higher Order Components without throwing the baby out with the bathwater](https://medium.com/appifycanada/solving-the-problems-of-higher-order-components-without-throwing-the-baby-out-with-the-bathwater-40ddc72df5aa)
+- [An intro to Behavioral Programming with React: request, wait, and block](https://medium.freecodecamp.org/an-intro-to-behavioral-programming-with-react-request-wait-and-block-ad876e2d235e)
 
 ###
 

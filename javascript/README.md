@@ -3,6 +3,9 @@
 ## New web features
 - https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
 
+## Articles
+- [Understanding transducers in javascript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
+- [Javascript Fundamentals: `this` keyword](https://blog.bloomca.me/2018/08/24/javascript-fundamentals-this.html)
 
 ## Functional Programming
 - (Tail call optimization in ECMAScript 6)[http://2ality.com/2015/06/tail-call-optimization.html#checking-whether-a-function-call-is-in-a-tail-position]
@@ -33,6 +36,7 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 
 - [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 - [Github - Clean code javascript README](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Mocking is a code smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 
 ## Node / V8 Engine
