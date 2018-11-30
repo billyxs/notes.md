@@ -29,6 +29,7 @@
 - Vim ALE Python linting
   - http://liuchengxu.org/posts/use-vim-as-a-python-ide/
   - https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2
+- [TIL: g<C-a> for creating a column of incrementing numbers](https://www.reddit.com/r/vim/comments/a1lvb1/til_gca_for_creating_a_column_of_incrementing/)
 
 ### EX mode
 - [Using more of EX](https://sanctum.geek.nz/arabesque/using-more-of-ex/) 
