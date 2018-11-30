@@ -12,6 +12,7 @@
 - https://medium.com/@happymishra66/lambda-map-and-filter-in-python-4935f248593
 - https://www.pythonforbeginners.com/dictionary/how-to-use-dictionaries-in-python/
 - [Asterisks in Python: what they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
+- [Python morsels](https://www.pythonmorsels.com)
 
 ## Setup
 

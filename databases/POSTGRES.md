@@ -7,6 +7,7 @@
 - [Scalable PostgreSQL - Streaming](https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af)
 - [Fun with SQL recursive ctes](https://www.citusdata.com/blog/2018/05/15/fun-with-sql-recursive-ctes/)
 - [When postgresql blocks](https://www.citusdata.com/blog/2018/02/15/when-postgresql-blocks/)
+- [The power of storing JSON in postgres](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
 
 
 # Fix version issue

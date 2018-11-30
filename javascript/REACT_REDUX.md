@@ -14,6 +14,9 @@
 
 - [Why Reason React is the best way to write React](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)
 - [9 React Styled-Components UI Libraries for 2018](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
+- [Concepts to become an advanced React developer](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
+- [Why React hooks and how did we even get here](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
+- [Everything you need to know about React Hooks](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349)
 
 ### HOCs and RenderProps
 - [Upgrade your react.js hoc with renderProps](https://reactrocket.com/post/turn-your-hocs-into-render-prop-components/)

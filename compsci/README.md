@@ -12,6 +12,7 @@
 ## Articles
 
 - [S-Expressions](https://people.csail.mit.edu/rivest/Sexp.txt)
+- [How we avoided if/else and wrote extendable code with Strategy Pattern](https://itnext.io/how-we-avoided-if-else-and-wrote-extendable-code-with-strategy-pattern-256e34b90caf)
 
 ## Testing
 

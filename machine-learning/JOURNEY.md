@@ -7,6 +7,25 @@
 - [Reddit ML](http://reddit.com/r/machinelearning)
 - [Hacker news](https://news.ycombinator.com/)
 
+
+### 2018-11-29
+
+- [How To Learn Data Science If You’re Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
+
+### 2018-11-25
+
+- [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+- [8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+- [Top 10 Machine Learning Projects for Beginners](https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397)
+
+
+### 2018-11-24
+
+- [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
+
+
 ### 2018-10-27
  
 - [Linear Algebra - PatrickJMT](https://www.youtube.com/watch?v=ivP-6oicIWU&list=PLAFEC355DFEADC30C)

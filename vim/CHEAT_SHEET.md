@@ -111,6 +111,10 @@ S " substitute line - remove line and change to insert mode
 o " add new line below and change to insert mode
 O " add new line above and change to insert mode
 
+^a  " increment a number
+^x  " decrement a number
+g^a " with a column selection, increment all numbers to be 1+ the number above 
+
 80i= " insert 80 equal signs
 ```
 

@@ -1,5 +1,16 @@
 # Javascript
 
+## 2018-11-26
+
+- [Understanding memoization in javascript to improve performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
+- [Javascript- Currying VS Partial Application](https://codeburst.io/javascript-currying-vs-partial-application-4db5b2442be8)
+
+## 2018-11-24
+
+- [JavaScript Bundlers, a Comparison](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
+
+###
+
 ## New web features
 - https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
 

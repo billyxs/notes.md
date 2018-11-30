@@ -21,3 +21,4 @@ A plugin to generate nested stacks to get around the 200 resource CloudFormation
 - [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
 
 - [Lambda Internals — Part 2: Going Deeper](https://medium.com/epsagon/aws-lambda-internals-part-2-going-deeper-1e12b9d2515f)
+- [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
