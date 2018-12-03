@@ -1,5 +1,11 @@
 # Dictionary
 
++ unordered collection of key/value pairs
+
+```python
+a = { 1: 'a', 'b':2 }
+```
+
 ```python
 student = {
   "first_name": "Jim",

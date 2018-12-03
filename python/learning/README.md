@@ -4,9 +4,10 @@
 - [Date](https://github.com/billyxs/notes.md/blob/master/python/learning/DATE.md)
 - [Tuple](https://github.com/billyxs/notes.md/blob/master/python/learning/TUPLE.md)
 - [List](https://github.com/billyxs/notes.md/blob/master/python/learning/LIST.md)
-- [Dictionary](https://github.com/billyxs/notes.md/blob/master/python/learning/DICIONARY.md)
+- [Dictionary](https://github.com/billyxs/notes.md/blob/master/python/learning/DICTIONARY.md)
 - [Class](https://github.com/billyxs/notes.md/blob/master/python/learning/CLASS.md)
 - [Function](https://github.com/billyxs/notes.md/blob/master/python/learning/FUNCTION.md)
+- [Generators](https://github.com/billyxs/notes.md/blob/master/python/learning/GENERATORS.md)
 - [Unit Tests](https://github.com/billyxs/notes.md/blob/master/python/learning/UNIT_TEST.md)
 
 ##
