@@ -1,30 +1,22 @@
 # Learning
 
-- Control and Operations
-  - [Control flow](https://github.com/billyxs/notes.md/blob/master/python/learning/CONTROL_FLOW.md)
-  - [Operations](https://github.com/billyxs/notes.md/blob/master/python/learning/OPERATIONS.md)
-
+- [Control flow](https://github.com/billyxs/notes.md/blob/master/python/learning/CONTROL_FLOW.md)
+- [Operations](https://github.com/billyxs/notes.md/blob/master/python/learning/OPERATIONS.md)
 - Data Types
   - [String](https://github.com/billyxs/notes.md/blob/master/python/learning/STRING.md)
   - [Date](https://github.com/billyxs/notes.md/blob/master/python/learning/DATE.md)
-
 - Collections
   - [Set](https://github.com/billyxs/notes.md/blob/master/python/learning/SET.md)
   - [Tuple](https://github.com/billyxs/notes.md/blob/master/python/learning/TUPLE.md)
   - [List](https://github.com/billyxs/notes.md/blob/master/python/learning/LIST.md)
   - [Dictionary](https://github.com/billyxs/notes.md/blob/master/python/learning/DICTIONARY.md)
-
 - Functions
   - [Import](https://github.com/billyxs/notes.md/blob/master/python/learning/IMPORT.md)
   - [Function](https://github.com/billyxs/notes.md/blob/master/python/learning/FUNCTION.md)
-  - [Generators](https://github.com/billyxs/notes.md/blob/master/python/learning/GENERATORS.md)
   - [Lambda](https://github.com/billyxs/notes.md/blob/master/python/learning/LAMBDA.md)
-
-- Classes
-  - [Class](https://github.com/billyxs/notes.md/blob/master/python/learning/CLASS.md)
-
-- Testing
-  - [Unit Tests](https://github.com/billyxs/notes.md/blob/master/python/learning/UNIT_TEST.md)
+  - [Generators](https://github.com/billyxs/notes.md/blob/master/python/learning/GENERATORS.md)
+- [Classes](https://github.com/billyxs/notes.md/blob/master/python/learning/CLASS.md)
+- [Unit Tests](https://github.com/billyxs/notes.md/blob/master/python/learning/UNIT_TEST.md)
 
 ##
 
