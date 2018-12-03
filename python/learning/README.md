@@ -1,13 +1,13 @@
 # Learning
 
-- String
-- Date
-- Tuple
-- [List]()
-- Dictionary
-- Class
-- Function
-- Tests
+- [String](https://github.com/billyxs/notes.md/blob/master/python/learning/STRING.md)
+- [Date](https://github.com/billyxs/notes.md/blob/master/python/learning/DATE.md)
+- [Tuple](https://github.com/billyxs/notes.md/blob/master/python/learning/TUPLE.md)
+- [List](https://github.com/billyxs/notes.md/blob/master/python/learning/LIST.md)
+- [Dictionary](https://github.com/billyxs/notes.md/blob/master/python/learning/DICIONARY.md)
+- [Class](https://github.com/billyxs/notes.md/blob/master/python/learning/CLASS.md)
+- [Function](https://github.com/billyxs/notes.md/blob/master/python/learning/FUNCTION.md)
+- [Unit Tests](https://github.com/billyxs/notes.md/blob/master/python/learning/UNIT_TEST.md)
 
 ##
 
