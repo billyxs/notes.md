@@ -1,5 +1,9 @@
 # Journey
 
+## 2018-12-03
+
+- [Multiple assignment and tuple unpacking improve Python code readability](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
+
 ## 2018-12-01
 - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 - [Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)
