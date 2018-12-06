@@ -8,6 +8,11 @@
 - [Hacker news](https://news.ycombinator.com/)
 
 
+### 2018-12-05
+
+- [Machine Learning Online Course - Georgia Tech through Udacity](https://www.udacity.com/course/machine-learning--ud262)
+- [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
+
 ### 2018-11-29
 
 - [How To Learn Data Science If You’re Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
