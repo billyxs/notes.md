@@ -1,10 +1,21 @@
 # Python Morsels - week 1
 # https://www.pythonmorsels.com/exercises/01435c5112a04587ae52d8529ba8b2eb/
+# https://www.pythonmorsels.com/exercises/01435c5112a04587ae52d8529ba8b2eb/solution/
 
 
 def get_earliest(*dates):
 
-    """find earliest date from list of dates"""
+    """Solution with tuple unpacking - find earliest date from list of dates"""
+
+    def date_key(date):
+        mm, dd, yy = date.split('/')
+        return (yy, mm, dd)
+    return min(dates, key=date_key)
+
+
+def get_earliest_1(*dates):
+
+    """My solution - find earliest date from list of dates"""
 
     res = dates[0].split('/')
 
