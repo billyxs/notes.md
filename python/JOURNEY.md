@@ -1,5 +1,9 @@
 # Journey
 
+## 2018-12-06
+
+- [Python glossary](https://docs.python.org/3/glossary.html#term-duck-typing)
+
 ## 2018-12-03
 
 - [Multiple assignment and tuple unpacking improve Python code readability](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)

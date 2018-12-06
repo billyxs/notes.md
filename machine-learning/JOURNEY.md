@@ -7,6 +7,20 @@
 - [Reddit ML](http://reddit.com/r/machinelearning)
 - [Hacker news](https://news.ycombinator.com/)
 
+## 2018-12-06
+
+- [My first TensorFlow.js project](https://medium.com/@piotr.skalski92/my-first-tensorflow-js-project-b481bdad17fb)
+  - [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+
+
+- [Install tensorflow for python 3.7](https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip)
+- [Keras](https://keras.io/)
+
+```bash
+python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
+
+pip install keras
+```
 
 ### 2018-12-05
 

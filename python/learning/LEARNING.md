@@ -1,5 +1,12 @@
 # Python / Learning
 
+## Terms
+
+Immutable, Ducktyping, EAFP...
+
+[Python glossary](https://docs.python.org/3/glossary.html#term-duck-typing)
+
+
 ## Data Types
 
 **Integer**

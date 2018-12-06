@@ -8,6 +8,7 @@
 - [10 basic programming principles every programmer must follow](https://www.makeuseof.com/tag/basic-programming-principles/)
 - [On being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Refactoring - Martin Fowler](https://martinfowler.com/books/refactoring.html)
+- [What startups really mean by why should we hire you](https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you)
 
 
 ## Continuous Delivery

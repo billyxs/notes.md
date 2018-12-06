@@ -37,6 +37,12 @@
 ## TensorFlow
 - [9 Things you should know about TensorFlow](https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995)
 
+
+## Keras
+
+- [Keras](https://keras.io/)
+
+
 ## Todo
 
 - [Visibility and Monitorying for Machine Learning Models](http://blog.launchdarkly.com/visibility-and-monitoring-for-machine-learning-models/)
