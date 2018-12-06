@@ -3,6 +3,7 @@
 ## 2018-12-06
 
 - [Python glossary](https://docs.python.org/3/glossary.html#term-duck-typing)
+- [Tensorflow introduction](https://www.sohamkamani.com/blog/2018/01/07/tensorflow-introduction/)
 
 ## 2018-12-03
 
