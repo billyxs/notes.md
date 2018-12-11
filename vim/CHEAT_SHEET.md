@@ -319,6 +319,8 @@ ggg?G      " obscure text with rot13 encoding. Undo with 'u'
 <Ctrl-z>   " suspend vim session
 fg         " go back to to suspended vim session
 
+<Ctrl-g>   " show file path 
+2<Ctrl-g>  " show full file path and buffer number 
 g <Ctrl-g> " show file info based on the cursor position
 ga         " print ascii value of char under cursor in decimal, hexidecimal, octal, and digraph if applicable
 gx         " open url under the cursor in a browser
