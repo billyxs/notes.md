@@ -1,4 +1,5 @@
 # https://www.pythonmorsels.com/exercises/9af6665915964ee7ba19fe3d762d9ca8/
+# https://www.pythonmorsels.com/exercises/9af6665915964ee7ba19fe3d762d9ca8/solution/
 
 from string import punctuation
 

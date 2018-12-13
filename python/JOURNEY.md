@@ -1,5 +1,10 @@
 # Journey
 
+## 2018-12-12
+
+- [Lerner Consulting Blog](http://blog.lerner.co.il/)
+
+
 ## 2018-12-06
 
 - [Python glossary](https://docs.python.org/3/glossary.html#term-duck-typing)

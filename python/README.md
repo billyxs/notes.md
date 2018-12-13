@@ -13,6 +13,7 @@
 - https://www.pythonforbeginners.com/dictionary/how-to-use-dictionaries-in-python/
 - [Asterisks in Python: what they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 - [Python morsels](https://www.pythonmorsels.com)
+- [Lerner Consulting Blog](http://blog.lerner.co.il/)
 
 ## Setup
 
