@@ -3,6 +3,7 @@
 ## 2018-12-12
 
 - [Lerner Consulting Blog](http://blog.lerner.co.il/)
+- [Python weekly](https://www.pythonweekly.com)
 
 
 ## 2018-12-06
