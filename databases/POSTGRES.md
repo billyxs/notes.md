@@ -27,6 +27,7 @@ Startup postgres server automatically
 pg_ctl -D /usr/local/var/postgres start && brew services start postgresql
 ```
 
+*Setup errors?*
 `FATAL: database files are incompatible with server`
 https://stackoverflow.com/questions/17822974/postgres-fatal-database-files-are-incompatible-with-server
 
