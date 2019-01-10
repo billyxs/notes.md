@@ -11,7 +11,6 @@
 
 - [How to use dataset in tensorflow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 
-
 ## 2018-12-06
 
 - [My first TensorFlow.js project](https://medium.com/@piotr.skalski92/my-first-tensorflow-js-project-b481bdad17fb)
