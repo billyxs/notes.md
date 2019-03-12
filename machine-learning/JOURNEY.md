@@ -7,6 +7,12 @@
 - [Reddit ML](http://reddit.com/r/machinelearning)
 - [Hacker news](https://news.ycombinator.com/)
 
+
+## 2019-02-10
+
+- [Self similarity matrix](https://en.wikipedia.org/wiki/Self-similarity_matrix)
+- [Recurrence plot](https://en.wikipedia.org/wiki/Recurrence_plot)
+
 ## 2018-12-08
 
 - [How to use dataset in tensorflow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
