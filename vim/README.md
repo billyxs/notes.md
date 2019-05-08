@@ -150,3 +150,5 @@ vim -c\ q --startuptime /tmp/vim.log && tail -n1 $_
 **Other**
 
 - https://github.com/vim-utils/vim-man
+- https://github.com/tpope/vim-dadbod
+- https://github.com/metakirby5/codi.vim
