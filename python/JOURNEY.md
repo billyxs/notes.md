@@ -1,5 +1,13 @@
 # Journey
 
+## 2019-05-30
+
+- [JSON plus](https://pypi.org/project/jsonplus/)
+  - helped to dump dynamodb response to stdout in a readable way
+- [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+  - aws sdk for python - need was to query dynamodb
+- [Interacting with Dynamodb via boto3](https://martinapugliese.github.io/interacting-with-a-dynamodb-via-boto3/)
+
 ## 2018-12-12
 
 - [Lerner Consulting Blog](http://blog.lerner.co.il/)
