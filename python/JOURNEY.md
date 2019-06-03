@@ -1,5 +1,16 @@
 # Journey
 
+## 2019-06-02
+
+- [Reverse list](https://www.programiz.com/python-programming/methods/list/reverse)
+- [Double ended queue - deque - "decks"](https://pymotw.com/3/collections/deque.html)
+
+
+## 2019-06-01
+
+- [Itertools - groupby](https://docs.python.org/2/library/itertools.html)
+
+
 ## 2019-05-30
 
 - [JSON plus](https://pypi.org/project/jsonplus/)
