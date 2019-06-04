@@ -2,6 +2,9 @@
 # https://www.pythonmorsels.com/exercises/8a614814784b4264b5085ed9b3358ca3/solution/
 
 
+from dataclasses import astuple, dataclass 
+
+
 class Point__():
     """3D Point object"""
 
@@ -59,7 +62,7 @@ class Point_1:
         return self.x == other.x and self.y == other.y and self.z == other.z
 
 
-class Point:
+class Point_2:
 
     """3D Point"""
 
@@ -74,20 +77,21 @@ class Point:
 
     def __eq__(self, other):
         """Return True if our point is equal to the other point."""
-        return self.x == other.x and self.y == other.y and self.z == other.z
+        return tuple(self) == tuple(other)
 
     def __add__(self, other):
-        x1, y1, z1 = self.x, self.y, self.z
-        x2, y2, z2 = other.x, other.y, other.z
+        x1, y1, z1 = self  # unpacking with the iterator now
+        x2, y2, z2 = other
         return Point(x1+x2, y1+y2, z1+z2)
 
     def __sub__(self, other):
-        x1, y1, z1 = self.x, self.y, self.z
-        x2, y2, z2 = other.x, other.y, other.z
+        x1, y1, z1 = self
+        x2, y2, z2 = other
         return Point(x1-x2, y1-y2, z1-z2)
 
     def __mul__(self, scalar):
-        return Point(self.x*scalar, self.y*scalar, self.z*scalar)
+        x, y, z = self
+        return Point(x*scalar, y*scalar, z*scalar)
 
     def __rmul__(self, scalar):
         return self.__mul__(scalar)
@@ -108,3 +112,34 @@ class Point:
         """iterate generator with a tuple"""
         yield from (self.x, self.y, self.z)
 
+
+@dataclass
+class Point:
+
+    """3D Point"""
+
+    x: float
+    y: float
+    z: float
+
+    def __add__(self, other):
+        """Return copy of our point, shifted by other."""
+        x1, y1, z1 = self
+        x2, y2, z2 = other
+        return Point(x1+x2, y1+y2, z1+z2)
+
+    def __sub__(self, other):
+        """Return copy of our point, shifted by other."""
+        x1, y1, z1 = self
+        x2, y2, z2 = other
+        return Point(x1-x2, y1-y2, z1-z2)
+
+    def __mul__(self, scalar):
+        """Return copy of our point, scaled by a given value"""
+        x, y, z = self
+        return Point(scalar*x, scalar*y, scalar*z)
+
+    __rmul__ = __mul__
+
+    def __iter__(self):
+        yield from astuple(self)
