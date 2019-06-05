@@ -1,9 +1,18 @@
 # Journey
 
+## 2019-06-03
+
+- [Dataclasses - Python 3.7](https://docs.python.org/3/library/dataclasses.html)
+- [Ultimate guide to data classes in python 3.7](https://realpython.com/python-data-classes/)
+- [Python Questions and Topics](http://net-informations.com/python/iq/pfaq.htm)
+- [Timeit in Python with Examples - performance testing](https://www.geeksforgeeks.org/timeit-python-examples/)
+- [Ternary operators for python](http://book.pythontips.com/en/latest/ternary_operators.html)
+
 ## 2019-06-02
 
 - [Reverse list](https://www.programiz.com/python-programming/methods/list/reverse)
 - [Double ended queue - deque - "decks"](https://pymotw.com/3/collections/deque.html)
+- [Full Python Programming Course | Python Tutorial for Beginners | Learn Python (2019)](https://www.youtube.com/watch?v=bZ6NL59FMoc&t=2538s)
 
 
 ## 2019-06-01
