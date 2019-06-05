@@ -1,5 +1,10 @@
 # Journey
 
+## 2019-06-04
+
+- [cmath for complex numbers](https://docs.python.org/3/library/cmath.html)
+- [Decimal class](https://docs.python.org/3/library/decimal.html)
+
 ## 2019-06-03
 
 - [Dataclasses - Python 3.7](https://docs.python.org/3/library/dataclasses.html)
