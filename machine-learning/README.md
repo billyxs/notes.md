@@ -14,6 +14,7 @@
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 - [Machine learning and reinforcement learning in finance specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
+- [Machine learning guide](http://ocdevel.com/mlg)
 
 ## Sports predictions
 

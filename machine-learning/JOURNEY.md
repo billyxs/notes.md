@@ -8,6 +8,10 @@
 - [Hacker news](https://news.ycombinator.com/)
 
 
+## 2019-06-18
+
+- [Machine learning guide](http://ocdevel.com/mlg)
+
 ## 2019-02-10
 
 - [Self similarity matrix](https://en.wikipedia.org/wiki/Self-similarity_matrix)
