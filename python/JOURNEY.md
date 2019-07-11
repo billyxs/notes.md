@@ -1,5 +1,9 @@
 # Journey
 
+## 2019-06-26
+- [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html)
+- [Regular expressions](http://pycon2017.regex.training/)
+
 ## 2019-06-04
 
 - [cmath for complex numbers](https://docs.python.org/3/library/cmath.html)

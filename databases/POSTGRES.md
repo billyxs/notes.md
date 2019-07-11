@@ -88,4 +88,41 @@ CREATE TABLE account(
 ```
 
 
+## Examples
 
+Concating queries together
+
+*For some reason we have duplicate county IDs and need to pull this list together*
+
+**UNION ALL**
+```sql
+SELECT * FROM public."MyTable" 
+	WHERE 
+		"MyTable"."StateProvince" = 'CA' 
+	AND 
+		"MyTable"."CountyId" IN (2, 3, 4, 5) 
+UNION ALL
+SELECT * FROM public."ClientPricePoint" 
+	WHERE 
+		"MyTable"."StateProvince" = 'NY' 
+	AND 
+		"MyTable"."CountyId" IN (4, 5, 17, 20) 
+```
+
+**Another way**
+```sql
+SELECT * FROM public."MyTable" 
+	WHERE 
+    1 =1
+  AND (
+      "MyTable"."StateProvince" = 'CA' 
+    AND 
+      "MyTable"."CountyId" IN (2, 3, 4, 5) 
+  )
+  OR
+  (
+      "MyTable"."StateProvince" = 'NY' 
+    AND 
+      "MyTable"."CountyId" IN (4, 5, 17, 20) 
+  )
+```
