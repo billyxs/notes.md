@@ -4,7 +4,9 @@
 # Facts and myths about Python names and values - https://nedbatchelder.com/text/names.html
 # Regular expressions - http://pycon2017.regex.training/
 
+import html
 import re
+import sys
 
 import datetime
 from dateutil.parser import parse
@@ -91,19 +93,41 @@ def entries_by_date_5(diary_file):
     ''', diary_file.read(), re.VERBOSE | re.DOTALL)
 
 
-REPLACEMENTS = {
+# Bonus 1 - replace html entities
+REPLACEMENTS_1 = {
     (" ", " "),
     ("&nbsp;", " "),
     ("&quot;", '"'),
     ("&", '&'),
     ("&amp;", '&'),
 }
-def clean_entry(text):
-    for original, replacement in REPLACEMENTS:
+
+def clean_entry_1(text):
+    for original, replacement in REPLACEMENTS_1:
         text = text.replace(original, replacement)
     return text.strip()
 
 
+REPLACEMENTS = {
+    " ": " ",
+    "&nbsp;": " ",
+    "&quot;": '"',
+    "&": '&',
+    "&amp;": '&',
+}
+
+REPLACEMENTS_RE = re.compile('|'.join(REPLACEMENTS.keys()))
+
+
+def clean_entry_2(text):
+    return REPLACEMENTS_RE.sub(lambda m: REPLACEMENTS[m.group()], text).strip()
+
+
+DATE_RE = re.compile(r'^\d{4} - \d{2} - \d{2} $', re.VERBOSE)
+
+
+def clean_entry(text):
+    return html.unescape(text).replace("\xa0", " ").strip()
 
 def entries_by_date(diary_file):
     date = None
@@ -115,3 +139,16 @@ def entries_by_date(diary_file):
         else:
             entry += line
     yield date, clean_entry(entry)
+
+
+# Bonus 2 
+
+def main(diary_filename):
+    with open(diary_filename) as diary_file:
+        for date, entry in entries_by_date(diary_file):
+            filename = f'{date}.txt'
+            with open(filename, mode='wt') as diary_file:
+                diary_file.write(entry)
+
+if __name__ == "__main__":
+    main(*sys.argv[1:])

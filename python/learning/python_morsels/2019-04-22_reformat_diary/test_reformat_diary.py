@@ -86,7 +86,7 @@ class EntriesByDateTests(unittest.TestCase):
 
 
 # To test the Bonus part of this exercise, comment out the following line
-@unittest.expectedFailure
+# @unittest.expectedFailure
 class MainFunctionTests(unittest.TestCase):
 
     """Tests for main function"""
