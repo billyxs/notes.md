@@ -65,14 +65,32 @@ CREATE TABLE TableName {
   table_constraint
 } INHERITS ExistingTableToInheritFrom
 
+
 CREATE TABLE account(
- user_id serial PRIMARY KEY,
+ account_id serial PRIMARY KEY,
  username VARCHAR (50) UNIQUE NOT NULL,
  password VARCHAR (50) NOT NULL,
  email VARCHAR (355) UNIQUE NOT NULL,
  created_on TIMESTAMP NOT NULL,
  last_login TIMESTAMP
 );
+
+-- with foreign key
+CREATE TABLE account_address(
+ address_id serial PRIMARY KEY,
+ account_id INT,
+ street TEXT NOT NULL, 
+ state_province TEXT NOT NULL, 
+ FOREIGN KEY (account_id) REFERENCES account (account_id)
+);
+
+-- Alter table and column
+ALTER TABLE account ADD COLUMN updated_on TIMESTAMP;
+ALTER TABLE account ALTER COLUMN email TEXT NOT NULL;
+```
+
+
+```sql
 
 \du - view users
 
