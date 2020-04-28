@@ -61,9 +61,9 @@ g_ " move to the end of the line
 ^  " move to the first non-whitespace character on the line
 _  " move to the first non-whitespace character on the line
 
-^e " scroll screen up one line. cursor line doesn't change
-^d " move down half the page and scroll
-^u " move up half the page and scroll
+<Ctrl-e> " scroll screen up one line. cursor line doesn't change
+<Ctrl-d> " move down half the page and scroll
+<Ctrl-u> " move up half the page and scroll
 
 H  " move to the top of the window, no scroll
 L  " move to the bottom of the window, no scroll
