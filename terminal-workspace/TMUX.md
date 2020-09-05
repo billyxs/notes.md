@@ -22,6 +22,7 @@ set -g default-terminal "xterm"
 
 ## Plugins
 - https://github.com/tmuxinator/tmuxinator
+- https://github.com/benmills/vimux
 
 
 ## Cheat sheets

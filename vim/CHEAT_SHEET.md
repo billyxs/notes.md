@@ -116,7 +116,7 @@ O " add new line above and change to insert mode
 g^a " with a column selection, increment all numbers to be 1+ the number above 
 
 80i= " insert 80 equal signs
-z=   " spell check, need to enable spellcheck first :set spell
+z=   " spell check: must enable spell check first :set spell
 ```
 
 ## Copy and Paste

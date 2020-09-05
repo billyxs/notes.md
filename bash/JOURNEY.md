@@ -1,5 +1,9 @@
 # Journey
 
+## 2020-09-04
+
+- [Linux up Skill Challenge](https://www.linuxupskillchallenge.org/)
+
 ## 2019-06-24
 
 - [catj - flattened json output](https://github.com/soheilpro/catj)
