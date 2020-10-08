@@ -303,6 +303,15 @@ mf " mark file to copy
 mc " execute copy of file to target
 ```
 
+## Datetime
+
+```bash
+" Using the system date command to output date time information to the buffer
+:r!date "+\%s"  " current timestamp
+:r!date "+\%F"  " current date
+
+```
+
 ## Other
 
 ```bash
@@ -326,7 +335,7 @@ g <Ctrl-g> " show file info based on the cursor position
 ga         " print ascii value of char under cursor in decimal, hexidecimal, octal, and digraph if applicable
 gx         " open url under the cursor in a browser
 
-:%!python -m json.tool " format JSON
+:%!python -m json.tool " take the current buffer and format it as JSON with python's json module
 
 :smile " brighten your day
 :h 42  " meaning of life?
