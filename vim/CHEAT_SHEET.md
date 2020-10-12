@@ -321,6 +321,11 @@ ggg?G      " obscure text with rot13 encoding. Undo with 'u'
 
 :%TOhtml   " create the current file contents as HTML document
 
+" execute
+!!bash<cr> " While In normal mode type !! execute the current expression on the line
+           " After !! you will enter Ex mode. Enter bash and "enter" and the line
+           " will be replaced with the result
+
 " read
 :r! ls     " pull ls output into the vim session
 :r! date   " pull date into the vim session
