@@ -20,6 +20,7 @@
 - [ZSH Vi Mode](https://dougblack.io/words/zsh-vi-mode.html)
 - [Lazy GIT - CLI](https://github.com/jesseduffield/lazygit)
 - [mtr - combination of ping and traceroute](https://www.exavault.com/docs/help/02-networking/04-mtr)
+- [Time tracker - watch time spent in files](https://github.com/JoshMcguigan/timetrack)
 
 ### Chrome tools
 - [Chrome Developer's Theme](https://chrome.google.com/webstore/detail/developers-theme/ofcdckkfmbdijjfffhmkjejgmjepijio)
