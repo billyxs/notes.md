@@ -36,4 +36,3 @@ def get_earliest_1(*dates):
 # print(get_earliest("12/30/2010", "11/20/2010"))
 # print(get_earliest("12/30/2010", "11/20/2010", "10/20/2011"))
 # print(get_earliest("12/30/2006", "11/20/2010", "10/20/2011"))
-

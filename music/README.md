@@ -58,3 +58,12 @@ Snare drum key fre
 Bass drum
 - Bottom at 60-80Hz
 - Slap at 2.5kHz
+
+Guitar key frequencies
+- Body at 240Hz
+- Clarity at 2.5kHz
+- Acoustic bottom at 80 or 120Hz
+
+Conga key frequencies
+- Resonant ring at 200 to 240Hz
+- Presence and slap at 5kHz

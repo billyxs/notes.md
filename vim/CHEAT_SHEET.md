@@ -73,6 +73,8 @@ zz " scroll the file to so the current cursor postion is the middle of the windo
 G  " move to the bottom of the file
 gg " move to the top of the file
 gi " change to insert mode and move to location you left insert mode
+;g " go to previous edit in changelist
+,g " go to next edit in changelist
 
 " Insert Mode
 <Ctrl-g>j  " move down one line
@@ -84,8 +86,8 @@ gi " change to insert mode and move to location you left insert mode
 ### ASCII, Digraphs, and Special Characters
 
 ```bash
-ga             " print ascii value of char under cursor as decimal, hexidecimal, and octal 
-:as or :ascii  " print ascii value of char under cursor as decimal, hexidecimal, and octal 
+ga             " print ascii value of char under cursor as decimal, hexidecimal, and octal
+:as or :ascii  " print ascii value of char under cursor as decimal, hexidecimal, and octal
 
 " Digraphs
 :dig or :digraphs  " list of defined digraphs
@@ -111,9 +113,20 @@ S " substitute line - remove line and change to insert mode
 o " add new line below and change to insert mode
 O " add new line above and change to insert mode
 
+C   " delete to the end of the line
+de  " delete to the end of the word
+dE  " delete to beginning of next word
+dw  " delete to beginning of next word
+dis " delete inside sentence
+das " delete around sentence
+dip " delete inside paragraph
+dap " delete around paragraph
+dab " delete around braces
+daB " delete around curly braces
+
 ^a  " increment a number
 ^x  " decrement a number
-g^a " with a column selection, increment all numbers to be 1+ the number above 
+g^a " with a column selection, increment all numbers to be 1+ the number above
 
 80i= " insert 80 equal signs
 z=   " spell check: must enable spell check first :set spell
@@ -126,6 +139,9 @@ y    " copy
 yiw  " copy inside word
 yiW  " copy inside word including special characters
 yi(  " copy paragraph
+yis  " copy inside sentence
+yib  " copy inside of brace
+yiB  " copy inside of curly braces
 yit  " copy inside of tags - ie <span>word</span>
 yy   " copy line
 Y    " copy line
@@ -185,14 +201,14 @@ qa   " record a macro to register "a". hit "q" to quit recording
 @@   " repeat the last macro.
 qaq  " clear macro "a".
 
-:1,10norm! @a       " run macro on lines 1 - 10 
+:1,10norm! @a       " run macro on lines 1 - 10
 :5,$norm! @a        " run macro from line 5 to end of file
 :%norm! @a          " run macro on all lines
-:'<,'>norm! @a      " run macro on all lines of selected range 
+:'<,'>norm! @a      " run macro on all lines of selected range
 :g/pattern/norm! @a " run macro on all matching patterns,
 
 :reg    " see register list of macros
-:reg ah " see registers "a" and "h" 
+:reg ah " see registers "a" and "h"
 ```
 
 ## Ex commands
@@ -289,11 +305,11 @@ gi       " move cursor to last and change to insert mode
 :Vex     " open directory in vertical split
 :Sex     " open directory in horizontal split
 :Tex     " open directory in tab
-:Rex     " return to and from directory 
+:Rex     " return to and from directory
 :split   " horizontally split window
 :vsplit  " vertically split window
 
-r  " refresh and reverse sort directory list 
+r  " refresh and reverse sort directory list
 R  " move file
 D  " delete file
 
@@ -334,8 +350,8 @@ ggg?G      " obscure text with rot13 encoding. Undo with 'u'
 <Ctrl-z>   " suspend vim session
 fg         " go back to to suspended vim session
 
-<Ctrl-g>   " show file path 
-2<Ctrl-g>  " show full file path and buffer number 
+<Ctrl-g>   " show file path
+2<Ctrl-g>  " show full file path and buffer number
 g <Ctrl-g> " show file info based on the cursor position
 ga         " print ascii value of char under cursor in decimal, hexidecimal, octal, and digraph if applicable
 gx         " open url under the cursor in a browser

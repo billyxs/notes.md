@@ -46,6 +46,11 @@ alt-.    " Paste last argument
 !!    " Rerun the last command. Can also be used with a command, eg: sudo !!
 reset " unbork your terminal
 
+" Navigation
+cd ../ " change to parent directory
+cd -   " change to the previous working directory
+cd ~   " change to your home directory
+cd ~username " change to a user's home directory
 ```
 
 ## Scripting

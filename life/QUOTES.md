@@ -43,5 +43,14 @@
 **Vikram (The Office US)**
 > Confidence is the food of the wise man but the liquor of the fool.
 
+
 **African Proverb**
 > If you want to go fast, go alone. If you want to go far, go together.
+
+
+**Mike Maples, Jr.**
+> Holding a grudge is a symptom of not knowing how you want to spend the gift of the day.
+
+
+**Chuang-Tzu**
+> Happiness is the absence of the striving for happiness.
