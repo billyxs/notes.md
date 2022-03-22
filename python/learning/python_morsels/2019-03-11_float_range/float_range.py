@@ -14,6 +14,7 @@ def float_range_(start, end=None, step=1.0):
         start = end + step
 
     return result
+print('result = ', result)
 
 
 # Solutions

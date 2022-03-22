@@ -1,5 +1,47 @@
 # Journey
 
+## 2022-02-10
+
+- [Get keys from unbound TypedDict](https://stackoverflow.com/questions/61943545/python-get-keys-from-unbound-typeddict)
+More inline with what I need
+```python
+class Jim(TypedDict):
+    name: str
+    age: int
+
+print(Jim.__annotations__)
+{'name': <class 'str'>, 'age': <class 'int'>}
+```
+
+- [How to get a list of class attributes in python](https://www.geeksforgeeks.org/how-to-get-a-list-of-class-attributes-in-python/)
+Not necessarily what I was looking for as the attributes aren't set on the class until instantiated. I would like to read the available keys on a TypedDict from the class itself, not an instance
+```python
+class Jim(TypedDict):
+    name: str
+    age: int
+
+# With  dir
+dir(Jim)
+
+# With inspect
+# Need to filter out private and protected methods
+for i in inspect.getmembers(Jim)
+
+# with __dict__.keys()
+Jim.__dict__.keys()
+dict_keys(['__module__', '__new__', '__dict__', '__weakref__', '__doc__', '__annotations__', '__total__'])
+```
+
+
+## 2022-02-09
+- [TypedDict vs dataclasses in Python — Epic typing BATTLE!](https://dev.to/meeshkan/typeddict-vs-dataclasses-in-python-epic-typing-battle-onb)
+  - Dataclasses advantage: matching -
+    - Determining an object's class when there is a Union of serveral classes.
+    - With `isinstance` one can discriminate between types.
+    - TypedDicts can't leverage `isinstance` and will need to inspect the entire object to see if it is a "duck". Slow for large objects.
+  - Dataclasses advantage: validation
+    - cast won't catch an error if a TypedDict has a value that is not the correct type.
+
 ## 2019-06-26
 - [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html)
 - [Regular expressions](http://pycon2017.regex.training/)
