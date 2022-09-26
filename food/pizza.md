@@ -4,26 +4,40 @@ Pizza made with a team building exercise
 
 ## Pizza Shopping List
 
-# Dry Goods
+### Dry Goods
 3 cups bread flour or 3 cups + 2 Tbs. all-purpose flour
+
 1 1⁄4 cups olive oil
+
 2 1⁄4 tsp. instant yeast
+
 1 14-15 oz. can tomatoes
+
 Salt
+
 Pinch granulated sugar, optional
+
 Parchment paper
-Produce
+
+### Produce
 1 head garlic (8-10 cloves)
-Dairy
+
 Cheese of your choice (fresh or shredded mozzarella, provolone, etc.)
+
 Toppings of your choice
+
 
 ## Pizza Tools
 Bowl and wooden spoon or stand mixer with hook attachment
+
 Blender, hand blender, or food processor (or chef’s knife and cutting board)
+
 Pizza stone or cookie sheet
+
 Chef’s knife and cutting board
+
 Small saucepan
+
 Parchment paper
 
 ## Pizza Dough
