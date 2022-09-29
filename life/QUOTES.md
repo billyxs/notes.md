@@ -54,3 +54,7 @@
 
 **Chuang-Tzu**
 > Happiness is the absence of the striving for happiness.
+
+
+**African proverb**
+> Every morning in Africa a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must run faster than the slowest gazelle or it will starve to death. It doesn’t matter whether you are a lion or a gazelle. When the sun comes up, you better start running.
