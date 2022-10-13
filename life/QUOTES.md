@@ -58,3 +58,15 @@
 
 **African proverb**
 > Every morning in Africa a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must run faster than the slowest gazelle or it will starve to death. It doesn’t matter whether you are a lion or a gazelle. When the sun comes up, you better start running.
+
+
+**Albert Einstein**
+> Try not to become a man of success, but rather try to become a man of value.**
+
+
+**Barry LePatner**
+> Good judgement comes from experience, and experience comes from bad judgement.
+
+
+**Regina Brett**
+> Don't compare your life to others. You have no idea what their journey is all about.
