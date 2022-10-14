@@ -70,3 +70,6 @@
 
 **Regina Brett**
 > Don't compare your life to others. You have no idea what their journey is all about.
+
+**Chuck Palahniuk** (Fight Club)
+> The things you own end up owning you. It's only after you lose everything that you're free to do anything.
