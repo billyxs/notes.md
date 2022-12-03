@@ -73,3 +73,7 @@
 
 **Chuck Palahniuk** (Fight Club)
 > The things you own end up owning you. It's only after you lose everything that you're free to do anything.
+
+
+**Jimi Hendrix**
+> When the power of love overcomes the love of power the world will know peace
